@@ -1,208 +1,870 @@
 START___############### Đoạn 1 ############### 
 
-Bắc Tống tháng năm năm Trị Bình thứ nhất, phủ quận vương Quảng Dương trong thành Khai Phong giăng đèn kết hoa, tiếng pháo nổ bên tai không dứt.  Trước cửa lớn có hai con sư tử bằng đá trấn thủ đỗ đầy xe ngựa, vô số nô bộc đứng bên cạnh xe ngựa chờ chủ nhân dự tiệc, đám nô bộc ấy sắc mặt đều vui mừng phấn khởi, bởi vì hôm nay bọn họ nhận được không ít tiền thưởng. 
-Hôm nay là ngày đại hôn của quận vương Quảng Dương.  Người có thể vào phủ quận vương chúc mừng đều là những quyền quý nổi danh trong thành Khai Phong, thậm chí quan viên từ tứ phẩm trở xuống cũng không có tư cách bước vào phủ dự tiệc.  Cho nên hôm nay người có thể vào phủ quận vương, bản thân đều có một thân phận đặc trưng, chẳng những người dự tiệc cảm thấy vinh quang mà đám người làm chờ bên ngoài cũng cảm thấy hãnh diện, trong ánh mắt nhìn dân chúng góp vui cũng lộ vẻ khinh thường. 
-Quận vương Quảng Dương tên là Triệu Nhan, là nhi tử thứ ba của đương kim Thánh thượng, năm nay mới mười lăm tuổi, là cậu ấm nổi danh trong thành Khai Phong, ngày thường hay đánh nhau ẩu đả với một đám bạn xấu, đánh bạc dâm loạn không từ bất cứ việc xấu gì, bất kể là trong giới quý tộc hay trong dân gian, Quảng Dương quận vương đều là một tay ăn chơi khét tiếng. 
-Tuy rằng thanh danh của Triệu Nhan không thể cứu vãn nổi, nhưng dù sao gã cũng là nhi tử của hoàng đế bệ hạ Đại Tống, cho nên vào đại hôn của gã, tất cả quyền quý có máu mặt trong thành Khai Phong đều phải đến nhà bái hạ.  Hơn nữa hoàng đế Đại Tống bây giờ tên là Triệu Thự, là vị hoàng đế thứ tám của triều Đại Tống, chính là Tống Anh Tông trong lịch sử.  Trên sử sách không ghi lại quá nhiều về Tống Anh Tông, bởi vì y chỉ làm hoàng đế có bốn năm.  Năm nay chính là năm đầu tiên Triệu Thự đăng cơ, con lớn nhất chính là Tống Thần Tông Triệu Húc trong lịch sử, người đã ủng hộ cuộc cải cách của Vương An Thạch.  Triệu Nhan, người thành hôn hôm nay chính là đệ đệ cùng mẹ với Triệu Húc. 
-Trong đại điện và trắc điện của phủ quận vương, một tiệc cưới xa hoa đang được cử hành.  Quý tộc và quan viên có tiếng trong thành Khai Phong đều dẫn theo gia quyến hội tụ ở đây, một đám đều đang uống say nghiêng ngả.
+Bắc Tống tháng năm năm Trị Bình thứ nhất, phủ quận vương Quảng Dương trong thành Khai Phong giăng đèn kết hoa, tiếng pháo nổ bên tai không dứt. Trước cửa lớn có hai con sư tử bằng đá trấn thủ đỗ đầy xe ngựa, vô số nô bộc đứng bên cạnh xe ngựa chờ chủ nhân dự tiệc, đám nô bộc ấy sắc mặt đều vui mừng phấn khởi, bởi vì hôm nay bọn họ nhận được không ít tiền thưởng. Hôm nay là ngày đại hôn của quận vương Quảng Dương.
 
 END___############### Đoạn 1 ############### 
 
+PROMPT Cho Đoạn 1:
+A bustling scene outside the Prince of Guangyang's mansion in Kaifeng, Northern Song Dynasty, 5th year of the Zhiping era. Red lanterns and festive decorations adorn the entrance. Firecrackers explode in the background. Two large stone lion statues guard the entrance. Numerous horse-drawn carriages fill the street. Servants in traditional Song Dynasty attire stand beside the carriages, their faces beaming with happiness. They receive generous tips. The grand wedding celebration of the Prince of Guangyang is taking place.
+
 START___############### Đoạn 2 ############### 
 
- Vốn dĩ tới tham gia tiệc cưới của người khác hẳn là chuyện rất đáng vui mừng, nhưng nếu cẩn thận quan sát sẽ thấy ngay, trên mặt không ít con cháu quý tộc trẻ tuổi dự tiệc đều không có bất kỳ nét vui mừng nào.  Bọn họ hoặc bi phẫn, hoặc ghen tị, hoặc nản lòng uống rượu mừng, đây vốn là rượu ngon ngự tứ chốn cung đình, bọn họ uống vào lại đều biến thành chén rượu đắng cay đau khổ khó có thể nuốt trôi. 
-Ngược lại, đại bộ phận các nữ quyến dự tiệc ở trắc điện đều mang vẻ mặt vui mừng.  Các quý phụ lớn tuổi trong nhà có con đều rạo rực thảo luận về chuyện đính hôn của con mình, hai năm trước đứa con nhà mình có chết cũng không chịu đính hôn, bây giờ hẳn đã hết hy vọng rồi, các nàng cũng có thể bế cháu trai sớm một chút.  Các tiểu thư trẻ trung con nhà quan gia cũng tụ tập lại một chỗ, vừa xấu hổ che mặt vừa nhỏ giọng thảo luận xem công tử nhà ai có tài văn chương kha khá, sau này nên chọn phu quân có dáng vẻ như thế nào? 
-Sở dĩ có cảnh tượng nam nữ hoàn toàn khác biệt như thế, tất cả là bởi Quảng Dương quận vương phi mới được tấn phong.  Vị vương phi này họ Tào tên Dĩnh, vốn là con gái của gia tướng Tào thị đứng đầu Đại Tống, chẳng những dáng vẻ khuynh quốc khuynh thành mà nữ công và tài học cũng đứng đầu trong các tiểu thư nhà gia tướng, nghe nói còn hiểu biết về y thuật.  Hơn nữa Tào thị lại là gia tướng đứng đầu Đại Tống, đương kim Tào Thái hậu chính là xuất thân từ Tào thị, Tào Dĩnh chính là con gái của cháu ruột Tào Thái hậu, xuất thân có thể nói là cực kỳ cao quý. 
-Cô gái như Tào Dĩnh đương nhiên là đối tượng liên nhân mà vạn nhà mong mỏi, con cháu quý tộc trong thành Khai Phong cũng có không ít người cầu hôn Tào gia, lại đều bị cự tuyệt không có ngoại lệ nào, nghe nói bởi vì tầm mắt của Tào tiểu thư rất cao, vốn chướng mắt với hết thảy người đến cầu thân. 
-Ngay khi không ít con cháu quý tộc vì Tào tiểu thư tâm cao khí ngạo mà âm thầm chán nản, dù thế nào cũng không ngờ được, Quảng Dương quận vương có tiếng xấu lại cầu thân với Tào thái hậu thành công, vì thế Tào thái hậu làm chủ, gả cháu gái nhà mẹ đẻ này cho Triệu Nhan, liên nhân giữa Tào gia và hoàng gia.
+Người có thể vào phủ quận vương chúc mừng đều là những quyền quý nổi danh trong thành Khai Phong, thậm chí quan viên từ tứ phẩm trở xuống cũng không có tư cách bước vào phủ dự tiệc. Cho nên hôm nay người có thể vào phủ quận vương, bản thân đều có một thân phận đặc trưng, chẳng những người dự tiệc cảm thấy vinh quang mà đám người làm chờ bên ngoài cũng cảm thấy hãnh diện, trong ánh mắt nhìn dân chúng góp vui cũng lộ vẻ khinh thường.
 
 END___############### Đoạn 2 ############### 
 
+PROMPT Cho Đoạn 2:
+A bustling scene outside the opulent mansion of a Prince during the Northern Song Dynasty in Kaifeng. Carriages of varying sizes and decorations line the street. Well-dressed officials and nobles, adorned in silk robes and jade ornaments, are arriving. Servants in fine livery attend to them. Onlookers, commoners dressed in simpler clothes, watch with a mixture of awe and envy. Some servants of the Prince's household look down upon the commoners with disdain. Capture the contrast in social status through clothing, expressions, and body language. Golden sunlight filters through the ornate gate of the mansion, highlighting the prosperity within. Focus on details like silk embroidery, jade pendants, and the architecture typical of the Northern Song period.
+
 START___############### Đoạn 3 ############### 
 
-
-Một người là nữ nhi tài mạo đều hay, một người là nhi tử của đương kim Thánh thượng, tuy rằng thanh danh của Triệu Nhan hơi kém một chút, nhưng người ngoài nhìn vào cũng coi như môn đăng hộ đối, tuy nhiên Tào Dĩnh trong tân phòng hiển nhiên không nghĩ vậy. 
-Nến đỏ lung linh, trướng mỏng ấm áp, quận vương phi Tào Dĩnh mới được tấn phong được bà mối vén khăn voan lên, mặc trên thân hỉ phục ngồi một mình trên chiếc giường ngà đỏ chót, vốn bên cạnh nàng còn có hai thị nữ hồi môn, nhưng trước đó đã bị nàng đuổi ra ngoài, hơn nữa trên mặt Tào Dĩnh cũng không có bất kì vẻ vui mừng nào, tay trái cầm một đoản kiếm tinh xảo, tay phải cầm lấy chuôi kiếm, không ngừng rút ra cắm vào, hàn quang sáng loáng trên thân kiếm tỏa ra bốn phía, dưới ánh nến không ngừng lập lòe lay động. 
-Tào Dĩnh xuất thân tướng môn, cái gọi là tướng môn chính là gia tộc nhiều đời làm tướng, những gia tộc này từ khi bắt đầu khai quốc chính là tướng lĩnh Đại Tống, tỷ như tổ tiên của Tào Dĩnh - Tào Bân chính là tướng lĩnh vô cùng nổi tiếng đầu thời Đại Tống, sau đó Tống Thái Tổ dùng rượu tước binh quyền, đám người Tào Bân vô cùng thức thời giao binh quyền ra, hoàng tộc Triệu thị vì báo đáp những người này liền cho họ phú quý qua nhiều thế hệ. 
-Không ít hậu nhân của tướng lĩnh bởi vì gia học sâu xa, cũng trở thành tướng lĩnh vô cùng ưu tú, trong đó xuất sắc nhất là hai nhà Tào, Cao.  Bọn họ ngoại trừ thế gia tướng môn, còn nhiều thế hệ liên hôn với hoàng thất Đại Tống, tỷ như Tào Thái hậu và Cao hoàng hậu hiện giờ chia ra xuất thân từ hai nhà này, mà Tào thái hậu còn là dì của Cao hoàng hậu, từ đó có thể biết hai gia thế này hiển hách đến thế nào. 
-Tổ phụ của Tào Dĩnh chính là đệ đệ ruột của Tào thái hậu, nói cho cùng nàng hẳn là phải gọi Tào thái hậu một tiếng cô tổ mẫu, chỉ có điều Tào Dĩnh lại không có cảm tình gì với vị cô tổ mẫu này, bởi vì chính vị cô tổ mẫu này đã đứng ra làm chủ, gả nàng cho Quảng Dương quận vương Triệu Nhan.  Tuy rằng nàng cực lực phản đối nhưng dưới áp lực của gia tộc, ý kiến của nàng bị người ta trực tiếp lờ đi. 
-Tào Dĩnh bây giờ đầy bụng phẫn nộ và ủy khuất, tướng mạo và tài học của nàng luôn luôn đứng đầu trong số các tỷ muội trong tộc, từ nhỏ cũng được trưởng bối trong gia tộc yêu quý.
+Quận vương Quảng Dương tên là Triệu Nhan, là nhi tử thứ ba của đương kim Thánh thượng, năm nay mới mười lăm tuổi, là cậu ấm nổi danh trong thành Khai Phong, ngày thường hay đánh nhau ẩu đả với một đám bạn xấu, đánh bạc dâm loạn không từ bất cứ việc xấu gì, bất kể là trong giới quý tộc hay trong dân gian, Quảng Dương quận vương đều là một tay ăn chơi khét tiếng.
 
 END___############### Đoạn 3 ############### 
 
+PROMPT Cho Đoạn 3:
+A richly dressed, mischievous-looking fifteen-year-old boy, Zhao Yan, the Prince of Guangyang, surrounded by a group of disreputable-looking youths in a bustling street scene of Kaifeng, Northern Song Dynasty. He's laughing, holding a gambling die, and a subtle hint of debauchery is in the air. The background features traditional Song Dynasty architecture and vendors, subtly suggesting the contrast between the prince's behavior and the orderly society.
+
 START___############### Đoạn 4 ############### 
 
- Các tỷ muội khác trong gia tộc đều muốn lấy được một sĩ tử được xướng danh trong Đông Hoa Môn, cho rằng những người đó đều là anh tài của Đại Tống, nhưng Tào Dĩnh lại luôn cho rằng chỉ có những đại tướng quân Tào Bân, Tào Vĩ tổ tiên của mình mới là đại anh hùng, đại hào kiệt chân chính.  Tuy rằng địa vị của võ tướng Đại Tống so ra kém hơn văn thần, nhưng Tào Dĩnh lại luôn mơ ước có một ngày được gả cho một vị tướng quân trẻ tuổi, tốt nhất là một tướng quân vừa anh tuấn vừa uy dũng như Địch Thanh, đáng tiếc nàng sinh muộn vài chục năm, Địch Thanh cũng đã qua đời từ nhiều năm trước rồi. 
-So sánh với trượng phu trong giấc mộng của Tào Dĩnh, vị Quảng Dương quận vương mà nàng phải lấy bây giờ cũng là một thái cực hoàn toàn khác, tuy rằng Tào Dĩnh chưa từng gặp Triệu Nhan, nhưng cũng đã được nghe nói về ác danh của gã, từ lời đồn đối phương tham tiền háo sắc không chuyện ác nào không làm, mấy năm trước vì dâm loạn thị nữ trong cung đã bị Hoàng hậu đuổi ra sống ngoài cung, kết quả ra khỏi cung rồi không ai quản thúc, Triệu Nhan càng trở nên càn quấy, ngày nào cũng cùng đám bạn bè thường xuyên lui tới tửu quán và kỹ quán, gần như cách vài ngày lại truyền ra chuyện gã tranh giành tình nhân với người khác mà đánh nhau, về phần thường ngày ức hiếp người lương thiện, đánh đập dân chúng đối với Triệu Nhan là chuyện cơm bữa, có thể nói ác danh của Triệu Nhan trong thành Đông Kinh không ai là không biết.  Vừa vặn Tào Dĩnh có một đứa em họ ngỗ ngược suốt ngày giao du đàn đúm với Triệu Nhan, cho nên so với người bình thường nàng còn hiểu rõ hơn cách làm người của Triệu Nhan. 
-Nghĩ đến nửa đời sau của mình sẽ nắm tay đi cùng dạng người như Triệu Nhan này, Tào Dĩnh liền cảm thấy vô cùng đau khổ.  Tính cách của nàng cương liệt, nguyện chết cũng không muốn để Triệu Nhan đụng vào một đầu ngón tay của mình, thậm chí sáng nay lúc mặc giá y, nàng còn giấu đoản kiếm nàng yêu quý nhất này vào trong người, định tự sát trong tân phòng, dùng cái chết để bảo toàn sự thanh bạch của bản thân. 
-Chỉ có điều khi Tào Dĩnh xuất giá, nàng nhìn thấy mẫu thân vừa khóc và nói xin lỗi nữ nhi, dù mẫu thân biết rõ nhân phẩm của Triệu Nhan nhưng vẫn không thể không gả con gái đi, đây tất cả đều là yêu cầu của gia tộc, mẫu thân cũng không đủ sức thay đổi.
+Tuy rằng thanh danh của Triệu Nhan không thể cứu vãn nổi, nhưng dù sao gã cũng là nhi tử của hoàng đế bệ hạ Đại Tống, cho nên vào đại hôn của gã, tất cả quyền quý có máu mặt trong thành Khai Phong đều phải đến nhà bái hạ. Hơn nữa hoàng đế Đại Tống bây giờ tên là Triệu Thự, là vị hoàng đế thứ tám của triều Đại Tống, chính là Tống Anh Tông trong lịch sử. Trên sử sách không ghi lại quá nhiều về Tống Anh Tông, bởi vì y chỉ làm hoàng đế có bốn năm.
 
 END___############### Đoạn 4 ############### 
 
+PROMPT Cho Đoạn 4:
+undefined
+
 START___############### Đoạn 5 ############### 
 
- Còn phụ thân luôn kiên cường cũng tỏ vẻ áy náy, quay mặt đi không đành lòng nhìn Tào Dĩnh, tóc mai cũng có thêm không ít sợi bạc.  Đại ca cõng nàng xuống lầu cũng than thở, chỉ đệ đệ muội muội và cháu trai cháu gái không hiểu chuyện mới không có tim không có phổi mà cao giọng cười đùa. 
-Nghĩ đến người nhà của mình, Tào Dĩnh cũng không tự chủ được lại mềm lòng, nàng chết rồi thì sẽ hết lo, nhưng nhất định sẽ liên lụy đến phụ mẫu và huynh đệ tỷ muội của mình.  Dù sao Triệu Nhan nói thế nào cũng là hoàng tử, nếu mình tự sát trong lúc đại hôn, đây rõ ràng là làm nhục hoàng gia, chuyện lan truyền ra, để giữ thể diện cho hoàng gia, Tào gia bọn họ nhất định sẽ bị xử phạt, có lẽ toàn bộ gia tộc Tào thị sẽ không sao, nhưng đối với riêng chi của phụ thân Tào Dĩnh mà nói, nhất định sẽ trở thành sự đả kích to lớn, thậm chí gia tộc Tào thị để bảo toàn thanh danh của mình có thể sẽ trục xuất chi tộc nhân này của phụ thân ra khỏi gia tộc cũng không chừng. 
-Nghĩ đến nếu mình tự sát sẽ mang đến hậu quả nghiêm trọng cho gia tộc, điều này làm cho Tào Dĩnh không khỏi thở dài một tiếng, đứng lên đi đến trước cửa sổ, đẩy cửa sổ ra nhìn ngắm bầu trời âm u bên ngoài.  Mặc dù là ban đêm nhưng trong tầng mây thỉnh thoảng có những tia chớp nhỏ xẹt ngang, mơ hồ cũng có tiếng sấm truyền đến, thoạt nhìn thật giống như trời sắp mưa. 
-- Trời xanh ơi trời xanh, nếu ông thật sự linh nghiệm, vậy hãy đánh thẳng sấm sét xuống, đánh chết tên ác nhân Triệu Nhan ấy đi.  Sau này ta nhất định sẽ ăn chay niệm Phật, cả đời hành thiện báo đáp ân tình của trời xanh! 
-Tào Dĩnh ngẩng đầu nhìn khoảng không nặng nề, bỗng nhiên có vài ý nghĩ kì lạ, mở miệng thấp giọng khẩn cầu, nhưng khiến cho nàng thất vọng, sấm sét trên bầu trời không chút biến hóa, vẫn như trước không nhanh không chậm quay cuồng trong tầng mây, càng không có khả năng bổ trúng tên Triệu Nhan đang uống rượu ở tiền điện. 
-Nhìn đến đây, Tào Dĩnh lại thở dài.  Nàng cũng biết bản thân chỉ vọng tưởng mà thôi, trước mắt nàng đã chính thức bái thiên địa với Triệu Nhan rồi, hơn nữa còn bái kiến quan gia Triệu Thự và Cao hoàng hậu, điều này cũng có nghĩa bọn họ đã chính thức là phu thê, cho dù là thần tiên hạ phàm, chỉ sợ cũng không thể thay đổi sự thật này.
+Năm nay chính là năm đầu tiên Triệu Thự đăng cơ, con lớn nhất chính là Tống Thần Tông Triệu Húc trong lịch sử, người đã ủng hộ cuộc cải cách của Vương An Thạch. Triệu Nhan, người thành hôn hôm nay chính là đệ đệ cùng mẹ với Triệu Húc. Trong đại điện và trắc điện của phủ quận vương, một tiệc cưới xa hoa đang được cử hành. Quý tộc và quan viên có tiếng trong thành Khai Phong đều dẫn theo gia quyến hội tụ ở đây, một đám đều đang uống say nghiêng ngả.
 
 END___############### Đoạn 5 ############### 
 
+PROMPT Cho Đoạn 5:
+An opulent wedding banquet in the main hall and side halls of a Prince's residence in Kaifeng, Northern Song Dynasty. Nobles and officials in traditional Song Dynasty attire, many appearing inebriated, are celebrating. In the background, glimpse of young Zhao Xu (future Emperor Shenzong) observing the festivities with a thoughtful expression. The scene is brightly lit with lanterns and decorations appropriate for a royal wedding.
+
 START___############### Đoạn 6 ############### 
 
-
-Tào Dĩnh cúi đầu nhìn bảo kiếm đang nắm chặt trong tay, thanh kiếm này là khi sinh nhật nàng, tổ phụ đã tặng cho nàng, chẳng những bề ngoài hoa mỹ mà còn sắc bén dị thường, lúc nào cũng là vật nàng yêu quý.  Chỉ có điều bảo kiếm dù lợi, nhưng không chém đứt nổi thân tình của thế gian, ít nhất hiện giờ Tào Dĩnh muốn dứt bỏ ngay những dây dưa với người đối diện nhưng lại không thể được. 
-- Nếu đã không dùng được, vậy còn giữ ngươi lại làm gì? 
-Tào Dĩnh nói xong bỗng nhiên vung tay lên, cầm bảo kiếm nàng yêu quý trong tay dùng sức ném ra ngoài cửa sổ, kết quả rất nhanh đã truyền đến tiếng rơi xuống nước, ngoài cửa sổ không xa là một hồ nước, bảo kiếm rơi xuống nước, phỏng chừng cũng không thể tìm được nữa rồi. 
-Mắt thấy không lâu nữa sẽ tới giờ Hợi, tiệc cưới ở tiền điện cũng tiến hành gần xong rồi, Tào Dĩnh vẻ mặt đờ đẫn trở lại ngồi trên giường.  Nếu vận mệnh đã như thế, nàng cũng chỉ có thể lựa chọn cách thuận theo. 
-“Rầm” một tiếng vang lớn, cửa lớn tân phòng bị người đột nhiên đẩy ra, một mùi rượu nồng nặc cũng xộc vào, điều này làm cho hai mày của Tào Dĩnh nhíu lại, ngay sau đó một bóng dáng lảo đảo xông vào trong phòng, sau đó thị nữ phía ngoài lặng lẽ đóng cửa tân phòng lại.  Không cần hỏi, tên uống say mèm này khẳng định chính là Quảng Dương quận vương Triệu Nhan nổi tiếng xấu xa rồi. 
-Tuy rằng Tào Dĩnh đã tâm như tro tàn, nhưng đối với vị lang quân tương lai này của mình, nàng vẫn không kìm nổi có chút tò mò, lập tức nghiêng đầu sang chỗ khác liếc mắt nhìn đối phương một cái, chỉ có điều kết quả làm nàng cực kỳ thất vọng.  Mượn ánh nến trong tân phòng, Tào Dĩnh có thể thấy rất rõ diện mạo của Triệu Nhan, chỉ thấy vẻ ngoài của đối phương cũng không khó coi, thậm chí còn được coi là có chút anh tuấn, nhưng sắc mặt Triệu Nhan lại xanh trắng không bình thường, quầng mắt thâm lại, hai gò má hơi lõm xuống, cả người thoạt nhìn rất phờ phạc. 
-Tổ phụ của Tào Dĩnh tinh thông y thuật, cực kỳ có danh tiếng ở Đại Tống, thuở nhỏ nàng cũng theo ông nội học chút y thuật, cảnh này trong giới quý tộc càng khiến nàng cảm thấy không bình thường.
+Vốn dĩ tới tham gia tiệc cưới của người khác hẳn là chuyện rất đáng vui mừng, nhưng nếu cẩn thận quan sát sẽ thấy ngay, trên mặt không ít con cháu quý tộc trẻ tuổi dự tiệc đều không có bất kỳ nét vui mừng nào. Bọn họ hoặc bi phẫn, hoặc ghen tị, hoặc nản lòng uống rượu mừng, đây vốn là rượu ngon ngự tứ chốn cung đình, bọn họ uống vào lại đều biến thành chén rượu đắng cay đau khổ khó có thể nuốt trôi. Ngược lại, đại bộ phận các nữ quyến dự tiệc ở trắc điện đều mang vẻ mặt vui mừng.
 
 END___############### Đoạn 6 ############### 
 
+PROMPT Cho Đoạn 6:
+A bustling Northern Song Dynasty wedding banquet scene. In the foreground, young nobles are depicted with expressions of resentment, envy, and disappointment, some listlessly drinking from ornate cups. In the background, women are shown with cheerful expressions, some gossiping and smiling. The setting is a lavishly decorated hall with traditional Chinese architecture and attire.
+
 START___############### Đoạn 7 ############### 
 
- Đối với hoàn cảnh như của Triệu Nhan thế này, Tào Dĩnh liếc qua đã thấy đối phương là do tửu sắc quá độ gây nên, mặc dù đối phương còn trẻ có thể tĩnh dưỡng để hồi phục trở lại, nhưng cũng cần phải tốn không ít thời gian cùng với nghị lực tương đối lớn, mà Tào Dĩnh hiển nhiên không cho rằng tên Triệu Nhan này có thể có được nghị lực lớn đến thế. 
-Chỉ thấy sau khi Triệu Nhan say xỉn đôi mắt lờ đờ mông lung đi vào tân phòng, ngẩng đầu nhìn tân nương tử xinh đẹp vô cùng, lập tức cười hắc hắc nói:
-- Quả nhiên không hổ là đệ nhất mỹ nữ của tướng môn, Triệu Nhan ta thật đúng là quá may mắn, không ngờ lại cưới được tiểu nương tử xinh đẹp như vậy! 
-Đối với lời khen của Triệu Nhan về dung mạo của mình, Tào Dĩnh cũng không có chút phản ứng nào.  Triệu Nhan cũng uống rượu say, căn bản không chú ý đến vẻ đờ đẫn trên mặt Tào Dĩnh.  Chỉ thấy gã thất tha thất thểu đi tới trước bàn, tự rót cho mình một chén rượu, sau đó từ trong ngực lấy ra một cái bình sứ nhỏ, mở nút bình ra cười khinh khỉnh nhìn Tào Dĩnh, rắc bột phấn trong bình vào chén rượu rồi uống một hơi cạn sạch. 
-Chiếc bàn cách Tào Dĩnh không xa, khi Triệu Nhan đang mở bình sứ ra, nàng đã ngửi thấy một mùi thuốc đông y, cũng biết rõ y lý và dược tính, Tào Dĩnh lập tức phân biệt được đây là thuốc gì, thậm chí chính mắt nàng còn nhìn thấy ba chữ viết trên bình sứ, như thế cho dù nàng không hiểu dược tính, chỉ dựa vào tên này cũng có thể đoán được Triệu Nhan đang dùng chính là thuốc tráng dương. 
-- Ngươi…
-Phát hiện này khiến Tào Dĩnh thiếu chút nữa tức đến ngất xỉu, hai tay nắm lấy vạt áo của mình, trong đôi mắt phượng cũng tràn ngập sự khuất nhục và lửa giận.  Tân lang trong đêm tân hôn đầu tiên dùng dược vật tráng dương, chuyện này nếu lan truyền ra ngoài, chẳng những Triệu Nhan mất mặt, Tào Dĩnh cũng không còn mặt mũi mà sống nữa rồi.  Thậm chí bây giờ nàng đang hối hận vì vừa rồi đã ném đoản kiếm đi, nhục nhã đến thế này, cho dù liều mình khiến cửa nát nhà tan, nàng cũng không muốn phải nhẫn nhịn chút nào. 
-- Há há, đêm động phòng hoa chúc, sao có thể thiếu vật này trợ hứng?  Tiểu nương tử đừng nóng lòng, đợt lát nữa bổn vương sẽ cho nàng biết thế nào gọi là cực lạc nhân gian?
+Các quý phụ lớn tuổi trong nhà có con đều rạo rực thảo luận về chuyện đính hôn của con mình, hai năm trước đứa con nhà mình có chết cũng không chịu đính hôn, bây giờ hẳn đã hết hy vọng rồi, các nàng cũng có thể bế cháu trai sớm một chút. Các tiểu thư trẻ trung con nhà quan gia cũng tụ tập lại một chỗ, vừa xấu hổ che mặt vừa nhỏ giọng thảo luận xem công tử nhà ai có tài văn chương kha khá, sau này nên chọn phu quân có dáng vẻ như thế nào?
 
 END___############### Đoạn 7 ############### 
 
+PROMPT Cho Đoạn 7:
+A bustling scene in a wealthy Northern Song Dynasty courtyard. Older, elegantly dressed women are animatedly discussing marriage prospects for their children, some holding embroidered handkerchiefs. In a separate group, younger noble ladies giggle and whisper, some covering their faces with fans, as they discuss the merits and appearances of eligible young men. The courtyard is adorned with blooming plum blossoms and traditional lanterns, casting a soft, warm light.
+
 START___############### Đoạn 8 ############### 
 
-
-Triệu Nhan say rượu vốn không phát hiện ra sự phẫn nộ của Tào Dĩnh, thậm chí miệng còn ba hoa một chút về thú hoan lạc với đối phương.  Dù sao thì theo gã, Tào Dĩnh đã là nữ nhân của mình, nói chút lời thô tục có đáng kể chi. 
-Nhìn Triệu Nhan nhích từng bước lại gần mình, Tào Dĩnh chỉ cảm thấy mình sắp giận đến phát điên rồi.  Từ nhỏ đến lớn, đây là lần đầu tiên nàng chán ghét một người như vậy, thậm chí cảm thấy đứng trong cùng một căn phòng với loại người như Triệu Nhan chính là nỗi nhục lớn nhất của mình, chứ đừng nói gì đến việc phải cùng gã động phòng. 
-Nghĩ đến đây, Tào Dĩnh tính cách cương liệt bỗng nhiên giơ tay nắm lấy cây trâm trên đầu.  Vốn vì người nhà, nàng đã chuẩn bị khuất phục rồi, nhưng biểu hiện của Triệu Nhan hiện giờ đã vượt ra khỏi giới hạn của nàng, cho nên bất kể thế nào nàng cũng sẽ không để kẻ như thế chạm vào mình, mặc kệ rằng hiện giờ trên danh nghĩa nàng đã là thê tử của Triệu Nhan! 
-Mắt Triệu Nhan say xỉn, lờ đờ mông lung vốn không chú ý tới sự khác thường của Tào Dĩnh, thậm chí bây giờ trong đầu gã toàn là những hình ảnh khó coi, căn bản không có khả năng suy tính đến chuyện khác, cho nên vẻ mặt vẫn cười dâm đãng như cũ, tiến sát tới gần Tào Dĩnh. 
-Mắt thấy Tào Dĩnh sắp nhổ cây trâm trên đầu xuống, thà chết cũng không chịu khuất nhục, bỗng nhiên phía ngoài tân phòng vang lên những tiếng hô kinh ngạc, thậm chí còn kèm theo tiếng hét chói tai của thị nữ, nghe hết sức kinh hoảng.  Hình như có gì đó làm cho người ta sợ hãi đang xông vào phủ quận vương. 
-Nghe thấy tiếng động lạ bên ngoài, Tào Dĩnh dừng tay lại, Triệu Nhan cũng dừng bước chân, trên mặt hai người đều mang theo vẻ hết sức nghi hoặc.  Dù sao nơi này cũng là trong phủ quận vương, hôm nay lại là ngày đại hỉ của Triệu Nhan, xung quanh phủ quận vương đều có trọng binh canh gác, sao có thể xảy ra chuyện ngoài ý muốn?
+Sở dĩ có cảnh tượng nam nữ hoàn toàn khác biệt như thế, tất cả là bởi Quảng Dương quận vương phi mới được tấn phong. Vị vương phi này họ Tào tên Dĩnh, vốn là con gái của gia tướng Tào thị đứng đầu Đại Tống, chẳng những dáng vẻ khuynh quốc khuynh thành mà nữ công và tài học cũng đứng đầu trong các tiểu thư nhà gia tướng, nghe nói còn hiểu biết về y thuật.
 
 END___############### Đoạn 8 ############### 
 
+PROMPT Cho Đoạn 8:
+A painting in the style of a Song Dynasty court portrait, depicting a beautiful woman with elegant features, wearing elaborate noblewoman's clothing and jade jewelry of the Northern Song Dynasty. Her expression is intelligent and serene. In the background, subtle details suggest a noble residence, perhaps hinting at medical herbs or scrolls to imply her knowledge of medicine and scholarship. The color palette should be muted and refined, in the style of classic Song Dynasty paintings.
+
 START___############### Đoạn 9 ############### 
 
-
-Ngay khi Tào Dĩnh và Triệu Nhan cùng ngẩn người, ngoài cửa sổ vừa bị Tào Dĩnh mở toang bỗng nhiên lóe lên ánh sáng trắng, ngay sau đó một quả cầu sáng trắng lớn bằng đầu người nhẹ nhàng tiến vào, tiếp đó chỉ thấy quả cầu sáng này đi vào rồi dừng lại một chút, tiếp theo lập tức bay về hướng Triệu Nhan, kết quả Tào Dĩnh chỉ nghe thấy Triệu Nhan hét thảm một tiếng, sau đó toàn bộ tân phòng lóe lên ánh sáng trắng chói mắt, làm cho nàng theo bản năng nhắm hai mắt lại. 
-Một lát sau, khi Tào Dĩnh mở mắt ra lần nữa, lại phát hiện trong phòng cũng không có thay đổi gì lớn, cái bàn vẫn vô cùng ngay ngắn như cũ, nến đỏ vẫn sáng ngời, chỉ có Triệu Nhan đang nằm thẳng tắp trước giường, bên ngoài tuy không có vết thương gì, nhưng trên mặt toàn bộ đều đen xám, hơn nữa y phục trên người cũng bị cháy đến rách nát, có nhiều chỗ dường như còn tỏa ra vài làn khói nhẹ.  Càng khiến cho Tào Dĩnh kinh ngạc là bên cạnh Triệu Nhan hình như có thêm mấy thứ đồ kì lạ. 
-- Chuyện này… chuyện này là sao? 
-Tào Dĩnh ngây ngốc nhìn Triệu Nhan trên mặt đất, trên mặt đầy vẻ khó tin. 
-Tuy nhiên Tào Dĩnh rất nhanh đã tỉnh táo lại từ trong nỗi khiếp sợ, bất kể xảy ra chuyện gì, tình hình Triệu Nhan hiện tại cũng vô cùng không ổn, nếu chẳng may thật sự chết trong tân phòng, vậy nàng cũng không thoát khỏi liên can, thậm chí ngay đến gia tộc cũng sẽ bị liên lụy. 
-Nghĩ đến đây, Tào Dĩnh vội vàng đứng dậy, đi tới định quan sát xem đối phương sống hay chết, tuy nhiên nàng vừa mới đi tới bên cạnh Triệu Nhan đã thấy Triệu Nhan gương mặt đen xám trên mặt đất bỗng nhiên mở to mắt, đôi mắt nhìn chằm chằm vào nàng, khiến cho Tào Dĩnh hoảng sợ, đồng thời trong lòng cũng nhẹ bẫng, bởi vì ít nhất Triệu Nhan vẫn còn sống. 
-Tuy nhiên khiến Tào Dĩnh tuyệt đối không thể tin được chính là, sau khi Triệu Nhan mở to mắt nhìn nàng, bỗng nhiên trên mặt lộ ra vẻ vô cùng bi phẫn, chống tay ngồi dậy lớn tiếng gào lên với nàng:
-- Tiên nữ tỷ tỷ, không phải ta chỉ trộm của lão hương một củ khoai lang và hai bắp ngô thôi ư, sao tỷ lại lấy tia chớp bổ xuống ta chứ?  Bắc Tống tháng năm năm Trị Bình thứ nhất, phủ quận vương Quảng Dương trong thành Khai Phong giăng đèn kết hoa, tiếng pháo nổ bên tai không dứt.
+Hơn nữa Tào thị lại là gia tướng đứng đầu Đại Tống, đương kim Tào Thái hậu chính là xuất thân từ Tào thị, Tào Dĩnh chính là con gái của cháu ruột Tào Thái hậu, xuất thân có thể nói là cực kỳ cao quý. Cô gái như Tào Dĩnh đương nhiên là đối tượng liên nhân mà vạn nhà mong mỏi, con cháu quý tộc trong thành Khai Phong cũng có không ít người cầu hôn Tào gia, lại đều bị cự tuyệt không có ngoại lệ nào, nghe nói bởi vì tầm mắt của Tào tiểu thư rất cao, vốn chướng mắt với hết thảy người đến cầu thân.
 
 END___############### Đoạn 9 ############### 
 
+PROMPT Cho Đoạn 9:
+A portrait of Cao Ying, a noble lady of the Cao family during the Northern Song Dynasty, standing in a refined courtyard of Kaifeng. She is depicted with an elegant bearing and discerning gaze, adorned in exquisite silk robes befitting her high status, surrounded by subtle details like blossoming plum trees or a scholar's rock to emphasize her refined taste. The overall composition should exude an air of unattainable grace and intelligent discernment, highlighting why she is considered a sought-after marriage prospect.
+
 START___############### Đoạn 10 ############### 
 
- Trước cửa lớn có hai con sư tử bằng đá trấn thủ đỗ đầy xe ngựa, vô số nô bộc đứng bên cạnh xe ngựa chờ chủ nhân dự tiệc, đám nô bộc ấy sắc mặt đều vui mừng phấn khởi, bởi vì hôm nay bọn họ nhận được không ít tiền thưởng. 
-Hôm nay là ngày đại hôn của quận vương Quảng Dương.  Người có thể vào phủ quận vương chúc mừng đều là những quyền quý nổi danh trong thành Khai Phong, thậm chí quan viên từ tứ phẩm trở xuống cũng không có tư cách bước vào phủ dự tiệc.  Cho nên hôm nay người có thể vào phủ quận vương, bản thân đều có một thân phận đặc trưng, chẳng những người dự tiệc cảm thấy vinh quang mà đám người làm chờ bên ngoài cũng cảm thấy hãnh diện, trong ánh mắt nhìn dân chúng góp vui cũng lộ vẻ khinh thường. 
-Quận vương Quảng Dương tên là Triệu Nhan, là nhi tử thứ ba của đương kim Thánh thượng, năm nay mới mười lăm tuổi, là cậu ấm nổi danh trong thành Khai Phong, ngày thường hay đánh nhau ẩu đả với một đám bạn xấu, đánh bạc dâm loạn không từ bất cứ việc xấu gì, bất kể là trong giới quý tộc hay trong dân gian, Quảng Dương quận vương đều là một tay ăn chơi khét tiếng. 
-Tuy rằng thanh danh của Triệu Nhan không thể cứu vãn nổi, nhưng dù sao gã cũng là nhi tử của hoàng đế bệ hạ Đại Tống, cho nên vào đại hôn của gã, tất cả quyền quý có máu mặt trong thành Khai Phong đều phải đến nhà bái hạ.  Hơn nữa hoàng đế Đại Tống bây giờ tên là Triệu Thự, là vị hoàng đế thứ tám của triều Đại Tống, chính là Tống Anh Tông trong lịch sử.  Trên sử sách không ghi lại quá nhiều về Tống Anh Tông, bởi vì y chỉ làm hoàng đế có bốn năm.  Năm nay chính là năm đầu tiên Triệu Thự đăng cơ, con lớn nhất chính là Tống Thần Tông Triệu Húc trong lịch sử, người đã ủng hộ cuộc cải cách của Vương An Thạch.  Triệu Nhan, người thành hôn hôm nay chính là đệ đệ cùng mẹ với Triệu Húc. 
-Trong đại điện và trắc điện của phủ quận vương, một tiệc cưới xa hoa đang được cử hành.  Quý tộc và quan viên có tiếng trong thành Khai Phong đều dẫn theo gia quyến hội tụ ở đây, một đám đều đang uống say nghiêng ngả.  Vốn dĩ tới tham gia tiệc cưới của người khác hẳn là chuyện rất đáng vui mừng, nhưng nếu cẩn thận quan sát sẽ thấy ngay, trên mặt không ít con cháu quý tộc trẻ tuổi dự tiệc đều không có bất kỳ nét vui mừng nào.
+Ngay khi không ít con cháu quý tộc vì Tào tiểu thư tâm cao khí ngạo mà âm thầm chán nản, dù thế nào cũng không ngờ được, Quảng Dương quận vương có tiếng xấu lại cầu thân với Tào thái hậu thành công, vì thế Tào thái hậu làm chủ, gả cháu gái nhà mẹ đẻ này cho Triệu Nhan, liên nhân giữa Tào gia và hoàng gia.
 
 END___############### Đoạn 10 ############### 
 
+PROMPT Cho Đoạn 10:
+A grand wedding ceremony in the style of the Northern Song Dynasty. The groom, Zhao Yan, the Prince of Guangyang, stands beside Cao Xiaojie, the Cao family's daughter, before the altar. Cao Taihou (Empress Dowager Cao) sits on a raised platform, observing the ceremony with a satisfied expression. Attendants hold ceremonial items, and noble families dressed in Song Dynasty robes fill the background. The scene conveys a sense of formality and the unlikely union of two prominent families.
+
 START___############### Đoạn 11 ############### 
 
- Bọn họ hoặc bi phẫn, hoặc ghen tị, hoặc nản lòng uống rượu mừng, đây vốn là rượu ngon ngự tứ chốn cung đình, bọn họ uống vào lại đều biến thành chén rượu đắng cay đau khổ khó có thể nuốt trôi. 
-Ngược lại, đại bộ phận các nữ quyến dự tiệc ở trắc điện đều mang vẻ mặt vui mừng.  Các quý phụ lớn tuổi trong nhà có con đều rạo rực thảo luận về chuyện đính hôn của con mình, hai năm trước đứa con nhà mình có chết cũng không chịu đính hôn, bây giờ hẳn đã hết hy vọng rồi, các nàng cũng có thể bế cháu trai sớm một chút.  Các tiểu thư trẻ trung con nhà quan gia cũng tụ tập lại một chỗ, vừa xấu hổ che mặt vừa nhỏ giọng thảo luận xem công tử nhà ai có tài văn chương kha khá, sau này nên chọn phu quân có dáng vẻ như thế nào? 
-Sở dĩ có cảnh tượng nam nữ hoàn toàn khác biệt như thế, tất cả là bởi Quảng Dương quận vương phi mới được tấn phong.  Vị vương phi này họ Tào tên Dĩnh, vốn là con gái của gia tướng Tào thị đứng đầu Đại Tống, chẳng những dáng vẻ khuynh quốc khuynh thành mà nữ công và tài học cũng đứng đầu trong các tiểu thư nhà gia tướng, nghe nói còn hiểu biết về y thuật.  Hơn nữa Tào thị lại là gia tướng đứng đầu Đại Tống, đương kim Tào Thái hậu chính là xuất thân từ Tào thị, Tào Dĩnh chính là con gái của cháu ruột Tào Thái hậu, xuất thân có thể nói là cực kỳ cao quý. 
-Cô gái như Tào Dĩnh đương nhiên là đối tượng liên nhân mà vạn nhà mong mỏi, con cháu quý tộc trong thành Khai Phong cũng có không ít người cầu hôn Tào gia, lại đều bị cự tuyệt không có ngoại lệ nào, nghe nói bởi vì tầm mắt của Tào tiểu thư rất cao, vốn chướng mắt với hết thảy người đến cầu thân. 
-Ngay khi không ít con cháu quý tộc vì Tào tiểu thư tâm cao khí ngạo mà âm thầm chán nản, dù thế nào cũng không ngờ được, Quảng Dương quận vương có tiếng xấu lại cầu thân với Tào thái hậu thành công, vì thế Tào thái hậu làm chủ, gả cháu gái nhà mẹ đẻ này cho Triệu Nhan, liên nhân giữa Tào gia và hoàng gia. 
 Một người là nữ nhi tài mạo đều hay, một người là nhi tử của đương kim Thánh thượng, tuy rằng thanh danh của Triệu Nhan hơi kém một chút, nhưng người ngoài nhìn vào cũng coi như môn đăng hộ đối, tuy nhiên Tào Dĩnh trong tân phòng hiển nhiên không nghĩ vậy.
 
 END___############### Đoạn 11 ############### 
 
+PROMPT Cho Đoạn 11:
+A beautiful woman in Northern Song Dynasty wedding attire (red robe, phoenix coronet) sits alone on the edge of a lavishly decorated bed in a bridal chamber. Her expression is one of discontent and quiet defiance. The room is lit by candlelight, casting long shadows. There are opulent wedding decorations like red silk banners and embroidered cushions, showcasing the wealth but contrasting with her inner turmoil.
+
 START___############### Đoạn 12 ############### 
 
-
-Nến đỏ lung linh, trướng mỏng ấm áp, quận vương phi Tào Dĩnh mới được tấn phong được bà mối vén khăn voan lên, mặc trên thân hỉ phục ngồi một mình trên chiếc giường ngà đỏ chót, vốn bên cạnh nàng còn có hai thị nữ hồi môn, nhưng trước đó đã bị nàng đuổi ra ngoài, hơn nữa trên mặt Tào Dĩnh cũng không có bất kì vẻ vui mừng nào, tay trái cầm một đoản kiếm tinh xảo, tay phải cầm lấy chuôi kiếm, không ngừng rút ra cắm vào, hàn quang sáng loáng trên thân kiếm tỏa ra bốn phía, dưới ánh nến không ngừng lập lòe lay động. 
-Tào Dĩnh xuất thân tướng môn, cái gọi là tướng môn chính là gia tộc nhiều đời làm tướng, những gia tộc này từ khi bắt đầu khai quốc chính là tướng lĩnh Đại Tống, tỷ như tổ tiên của Tào Dĩnh - Tào Bân chính là tướng lĩnh vô cùng nổi tiếng đầu thời Đại Tống, sau đó Tống Thái Tổ dùng rượu tước binh quyền, đám người Tào Bân vô cùng thức thời giao binh quyền ra, hoàng tộc Triệu thị vì báo đáp những người này liền cho họ phú quý qua nhiều thế hệ. 
-Không ít hậu nhân của tướng lĩnh bởi vì gia học sâu xa, cũng trở thành tướng lĩnh vô cùng ưu tú, trong đó xuất sắc nhất là hai nhà Tào, Cao.  Bọn họ ngoại trừ thế gia tướng môn, còn nhiều thế hệ liên hôn với hoàng thất Đại Tống, tỷ như Tào Thái hậu và Cao hoàng hậu hiện giờ chia ra xuất thân từ hai nhà này, mà Tào thái hậu còn là dì của Cao hoàng hậu, từ đó có thể biết hai gia thế này hiển hách đến thế nào. 
-Tổ phụ của Tào Dĩnh chính là đệ đệ ruột của Tào thái hậu, nói cho cùng nàng hẳn là phải gọi Tào thái hậu một tiếng cô tổ mẫu, chỉ có điều Tào Dĩnh lại không có cảm tình gì với vị cô tổ mẫu này, bởi vì chính vị cô tổ mẫu này đã đứng ra làm chủ, gả nàng cho Quảng Dương quận vương Triệu Nhan.  Tuy rằng nàng cực lực phản đối nhưng dưới áp lực của gia tộc, ý kiến của nàng bị người ta trực tiếp lờ đi. 
-Tào Dĩnh bây giờ đầy bụng phẫn nộ và ủy khuất, tướng mạo và tài học của nàng luôn luôn đứng đầu trong số các tỷ muội trong tộc, từ nhỏ cũng được trưởng bối trong gia tộc yêu quý.
+Nến đỏ lung linh, trướng mỏng ấm áp, quận vương phi Tào Dĩnh mới được tấn phong được bà mối vén khăn voan lên, mặc trên thân hỉ phục ngồi một mình trên chiếc giường ngà đỏ chót, vốn bên cạnh nàng còn có hai thị nữ hồi môn, nhưng trước đó đã bị nàng đuổi ra ngoài, hơn nữa trên mặt Tào Dĩnh cũng không có bất kì vẻ vui mừng nào, tay trái cầm một đoản kiếm tinh xảo, tay phải cầm lấy chuôi kiếm, không ngừng rút ra cắm vào, hàn quang sáng loáng trên thân kiếm tỏa ra bốn phía, dưới ánh nến không ngừng lập lòe lay động.
 
 END___############### Đoạn 12 ############### 
 
+PROMPT Cho Đoạn 12:
+A newly appointed Princess Cao Ying of the Northern Song Dynasty sits alone on a red ivory bed in a dimly lit room. Red candles flicker, casting light on the thin, warm curtains. She wears a traditional red wedding dress. Her maids have been dismissed. Instead of joy, her face is stoic. In her left hand, she holds a short, exquisite sword. Her right hand grips the hilt, repeatedly drawing and sheathing the blade. The cold light of the sword flashes and dances in the candlelight.
+
 START___############### Đoạn 13 ############### 
 
- Các tỷ muội khác trong gia tộc đều muốn lấy được một sĩ tử được xướng danh trong Đông Hoa Môn, cho rằng những người đó đều là anh tài của Đại Tống, nhưng Tào Dĩnh lại luôn cho rằng chỉ có những đại tướng quân Tào Bân, Tào Vĩ tổ tiên của mình mới là đại anh hùng, đại hào kiệt chân chính.  Tuy rằng địa vị của võ tướng Đại Tống so ra kém hơn văn thần, nhưng Tào Dĩnh lại luôn mơ ước có một ngày được gả cho một vị tướng quân trẻ tuổi, tốt nhất là một tướng quân vừa anh tuấn vừa uy dũng như Địch Thanh, đáng tiếc nàng sinh muộn vài chục năm, Địch Thanh cũng đã qua đời từ nhiều năm trước rồi. 
-So sánh với trượng phu trong giấc mộng của Tào Dĩnh, vị Quảng Dương quận vương mà nàng phải lấy bây giờ cũng là một thái cực hoàn toàn khác, tuy rằng Tào Dĩnh chưa từng gặp Triệu Nhan, nhưng cũng đã được nghe nói về ác danh của gã, từ lời đồn đối phương tham tiền háo sắc không chuyện ác nào không làm, mấy năm trước vì dâm loạn thị nữ trong cung đã bị Hoàng hậu đuổi ra sống ngoài cung, kết quả ra khỏi cung rồi không ai quản thúc, Triệu Nhan càng trở nên càn quấy, ngày nào cũng cùng đám bạn bè thường xuyên lui tới tửu quán và kỹ quán, gần như cách vài ngày lại truyền ra chuyện gã tranh giành tình nhân với người khác mà đánh nhau, về phần thường ngày ức hiếp người lương thiện, đánh đập dân chúng đối với Triệu Nhan là chuyện cơm bữa, có thể nói ác danh của Triệu Nhan trong thành Đông Kinh không ai là không biết.  Vừa vặn Tào Dĩnh có một đứa em họ ngỗ ngược suốt ngày giao du đàn đúm với Triệu Nhan, cho nên so với người bình thường nàng còn hiểu rõ hơn cách làm người của Triệu Nhan. 
-Nghĩ đến nửa đời sau của mình sẽ nắm tay đi cùng dạng người như Triệu Nhan này, Tào Dĩnh liền cảm thấy vô cùng đau khổ.  Tính cách của nàng cương liệt, nguyện chết cũng không muốn để Triệu Nhan đụng vào một đầu ngón tay của mình, thậm chí sáng nay lúc mặc giá y, nàng còn giấu đoản kiếm nàng yêu quý nhất này vào trong người, định tự sát trong tân phòng, dùng cái chết để bảo toàn sự thanh bạch của bản thân. 
-Chỉ có điều khi Tào Dĩnh xuất giá, nàng nhìn thấy mẫu thân vừa khóc và nói xin lỗi nữ nhi, dù mẫu thân biết rõ nhân phẩm của Triệu Nhan nhưng vẫn không thể không gả con gái đi, đây tất cả đều là yêu cầu của gia tộc, mẫu thân cũng không đủ sức thay đổi.
+Tào Dĩnh xuất thân tướng môn, cái gọi là tướng môn chính là gia tộc nhiều đời làm tướng, những gia tộc này từ khi bắt đầu khai quốc chính là tướng lĩnh Đại Tống, tỷ như tổ tiên của Tào Dĩnh - Tào Bân chính là tướng lĩnh vô cùng nổi tiếng đầu thời Đại Tống, sau đó Tống Thái Tổ dùng rượu tước binh quyền, đám người Tào Bân vô cùng thức thời giao binh quyền ra, hoàng tộc Triệu thị vì báo đáp những người này liền cho họ phú quý qua nhiều thế hệ.
 
 END___############### Đoạn 13 ############### 
 
+PROMPT Cho Đoạn 13:
+A majestic portrait of a stern but wise-looking general in Northern Song dynasty military attire. He stands before a backdrop depicting a bustling cityscape with flags bearing the Song dynasty insignia, symbolizing the Tào family's lineage as military leaders. Subtle hints of a grand banquet with opulent wine vessels and seated figures can be seen blurred in the background, alluding to the 'releasing military power with wine' event.
+
 START___############### Đoạn 14 ############### 
 
- Còn phụ thân luôn kiên cường cũng tỏ vẻ áy náy, quay mặt đi không đành lòng nhìn Tào Dĩnh, tóc mai cũng có thêm không ít sợi bạc.  Đại ca cõng nàng xuống lầu cũng than thở, chỉ đệ đệ muội muội và cháu trai cháu gái không hiểu chuyện mới không có tim không có phổi mà cao giọng cười đùa. 
-Nghĩ đến người nhà của mình, Tào Dĩnh cũng không tự chủ được lại mềm lòng, nàng chết rồi thì sẽ hết lo, nhưng nhất định sẽ liên lụy đến phụ mẫu và huynh đệ tỷ muội của mình.  Dù sao Triệu Nhan nói thế nào cũng là hoàng tử, nếu mình tự sát trong lúc đại hôn, đây rõ ràng là làm nhục hoàng gia, chuyện lan truyền ra, để giữ thể diện cho hoàng gia, Tào gia bọn họ nhất định sẽ bị xử phạt, có lẽ toàn bộ gia tộc Tào thị sẽ không sao, nhưng đối với riêng chi của phụ thân Tào Dĩnh mà nói, nhất định sẽ trở thành sự đả kích to lớn, thậm chí gia tộc Tào thị để bảo toàn thanh danh của mình có thể sẽ trục xuất chi tộc nhân này của phụ thân ra khỏi gia tộc cũng không chừng. 
-Nghĩ đến nếu mình tự sát sẽ mang đến hậu quả nghiêm trọng cho gia tộc, điều này làm cho Tào Dĩnh không khỏi thở dài một tiếng, đứng lên đi đến trước cửa sổ, đẩy cửa sổ ra nhìn ngắm bầu trời âm u bên ngoài.  Mặc dù là ban đêm nhưng trong tầng mây thỉnh thoảng có những tia chớp nhỏ xẹt ngang, mơ hồ cũng có tiếng sấm truyền đến, thoạt nhìn thật giống như trời sắp mưa. 
-- Trời xanh ơi trời xanh, nếu ông thật sự linh nghiệm, vậy hãy đánh thẳng sấm sét xuống, đánh chết tên ác nhân Triệu Nhan ấy đi.  Sau này ta nhất định sẽ ăn chay niệm Phật, cả đời hành thiện báo đáp ân tình của trời xanh! 
-Tào Dĩnh ngẩng đầu nhìn khoảng không nặng nề, bỗng nhiên có vài ý nghĩ kì lạ, mở miệng thấp giọng khẩn cầu, nhưng khiến cho nàng thất vọng, sấm sét trên bầu trời không chút biến hóa, vẫn như trước không nhanh không chậm quay cuồng trong tầng mây, càng không có khả năng bổ trúng tên Triệu Nhan đang uống rượu ở tiền điện. 
-Nhìn đến đây, Tào Dĩnh lại thở dài.  Nàng cũng biết bản thân chỉ vọng tưởng mà thôi, trước mắt nàng đã chính thức bái thiên địa với Triệu Nhan rồi, hơn nữa còn bái kiến quan gia Triệu Thự và Cao hoàng hậu, điều này cũng có nghĩa bọn họ đã chính thức là phu thê, cho dù là thần tiên hạ phàm, chỉ sợ cũng không thể thay đổi sự thật này.
+Không ít hậu nhân của tướng lĩnh bởi vì gia học sâu xa, cũng trở thành tướng lĩnh vô cùng ưu tú, trong đó xuất sắc nhất là hai nhà Tào, Cao. Bọn họ ngoại trừ thế gia tướng môn, còn nhiều thế hệ liên hôn với hoàng thất Đại Tống, tỷ như Tào Thái hậu và Cao hoàng hậu hiện giờ chia ra xuất thân từ hai nhà này, mà Tào thái hậu còn là dì của Cao hoàng hậu, từ đó có thể biết hai gia thế này hiển hách đến thế nào.
 
 END___############### Đoạn 14 ############### 
 
+PROMPT Cho Đoạn 14:
+undefined
+
 START___############### Đoạn 15 ############### 
 
-
-Tào Dĩnh cúi đầu nhìn bảo kiếm đang nắm chặt trong tay, thanh kiếm này là khi sinh nhật nàng, tổ phụ đã tặng cho nàng, chẳng những bề ngoài hoa mỹ mà còn sắc bén dị thường, lúc nào cũng là vật nàng yêu quý.  Chỉ có điều bảo kiếm dù lợi, nhưng không chém đứt nổi thân tình của thế gian, ít nhất hiện giờ Tào Dĩnh muốn dứt bỏ ngay những dây dưa với người đối diện nhưng lại không thể được. 
-- Nếu đã không dùng được, vậy còn giữ ngươi lại làm gì? 
-Tào Dĩnh nói xong bỗng nhiên vung tay lên, cầm bảo kiếm nàng yêu quý trong tay dùng sức ném ra ngoài cửa sổ, kết quả rất nhanh đã truyền đến tiếng rơi xuống nước, ngoài cửa sổ không xa là một hồ nước, bảo kiếm rơi xuống nước, phỏng chừng cũng không thể tìm được nữa rồi. 
-Mắt thấy không lâu nữa sẽ tới giờ Hợi, tiệc cưới ở tiền điện cũng tiến hành gần xong rồi, Tào Dĩnh vẻ mặt đờ đẫn trở lại ngồi trên giường.  Nếu vận mệnh đã như thế, nàng cũng chỉ có thể lựa chọn cách thuận theo. 
-“Rầm” một tiếng vang lớn, cửa lớn tân phòng bị người đột nhiên đẩy ra, một mùi rượu nồng nặc cũng xộc vào, điều này làm cho hai mày của Tào Dĩnh nhíu lại, ngay sau đó một bóng dáng lảo đảo xông vào trong phòng, sau đó thị nữ phía ngoài lặng lẽ đóng cửa tân phòng lại.  Không cần hỏi, tên uống say mèm này khẳng định chính là Quảng Dương quận vương Triệu Nhan nổi tiếng xấu xa rồi. 
-Tuy rằng Tào Dĩnh đã tâm như tro tàn, nhưng đối với vị lang quân tương lai này của mình, nàng vẫn không kìm nổi có chút tò mò, lập tức nghiêng đầu sang chỗ khác liếc mắt nhìn đối phương một cái, chỉ có điều kết quả làm nàng cực kỳ thất vọng.  Mượn ánh nến trong tân phòng, Tào Dĩnh có thể thấy rất rõ diện mạo của Triệu Nhan, chỉ thấy vẻ ngoài của đối phương cũng không khó coi, thậm chí còn được coi là có chút anh tuấn, nhưng sắc mặt Triệu Nhan lại xanh trắng không bình thường, quầng mắt thâm lại, hai gò má hơi lõm xuống, cả người thoạt nhìn rất phờ phạc. 
-Tổ phụ của Tào Dĩnh tinh thông y thuật, cực kỳ có danh tiếng ở Đại Tống, thuở nhỏ nàng cũng theo ông nội học chút y thuật, cảnh này trong giới quý tộc càng khiến nàng cảm thấy không bình thường.
+Tổ phụ của Tào Dĩnh chính là đệ đệ ruột của Tào thái hậu, nói cho cùng nàng hẳn là phải gọi Tào thái hậu một tiếng cô tổ mẫu, chỉ có điều Tào Dĩnh lại không có cảm tình gì với vị cô tổ mẫu này, bởi vì chính vị cô tổ mẫu này đã đứng ra làm chủ, gả nàng cho Quảng Dương quận vương Triệu Nhan. Tuy rằng nàng cực lực phản đối nhưng dưới áp lực của gia tộc, ý kiến của nàng bị người ta trực tiếp lờ đi.
 
 END___############### Đoạn 15 ############### 
 
+PROMPT Cho Đoạn 15:
+A young woman in Song Dynasty noble attire, her face etched with sorrow and defiance, kneels before a stern-looking Empress Dowager Cao in a grand palace hall. Family members in traditional robes surround them, their expressions a mix of concern and disapproval. The scene captures the pressure and lack of agency felt by the woman as her marriage arrangement is forced upon her.
+
 START___############### Đoạn 16 ############### 
 
- Đối với hoàn cảnh như của Triệu Nhan thế này, Tào Dĩnh liếc qua đã thấy đối phương là do tửu sắc quá độ gây nên, mặc dù đối phương còn trẻ có thể tĩnh dưỡng để hồi phục trở lại, nhưng cũng cần phải tốn không ít thời gian cùng với nghị lực tương đối lớn, mà Tào Dĩnh hiển nhiên không cho rằng tên Triệu Nhan này có thể có được nghị lực lớn đến thế. 
-Chỉ thấy sau khi Triệu Nhan say xỉn đôi mắt lờ đờ mông lung đi vào tân phòng, ngẩng đầu nhìn tân nương tử xinh đẹp vô cùng, lập tức cười hắc hắc nói:
-- Quả nhiên không hổ là đệ nhất mỹ nữ của tướng môn, Triệu Nhan ta thật đúng là quá may mắn, không ngờ lại cưới được tiểu nương tử xinh đẹp như vậy! 
-Đối với lời khen của Triệu Nhan về dung mạo của mình, Tào Dĩnh cũng không có chút phản ứng nào.  Triệu Nhan cũng uống rượu say, căn bản không chú ý đến vẻ đờ đẫn trên mặt Tào Dĩnh.  Chỉ thấy gã thất tha thất thểu đi tới trước bàn, tự rót cho mình một chén rượu, sau đó từ trong ngực lấy ra một cái bình sứ nhỏ, mở nút bình ra cười khinh khỉnh nhìn Tào Dĩnh, rắc bột phấn trong bình vào chén rượu rồi uống một hơi cạn sạch. 
-Chiếc bàn cách Tào Dĩnh không xa, khi Triệu Nhan đang mở bình sứ ra, nàng đã ngửi thấy một mùi thuốc đông y, cũng biết rõ y lý và dược tính, Tào Dĩnh lập tức phân biệt được đây là thuốc gì, thậm chí chính mắt nàng còn nhìn thấy ba chữ viết trên bình sứ, như thế cho dù nàng không hiểu dược tính, chỉ dựa vào tên này cũng có thể đoán được Triệu Nhan đang dùng chính là thuốc tráng dương. 
-- Ngươi…
-Phát hiện này khiến Tào Dĩnh thiếu chút nữa tức đến ngất xỉu, hai tay nắm lấy vạt áo của mình, trong đôi mắt phượng cũng tràn ngập sự khuất nhục và lửa giận.  Tân lang trong đêm tân hôn đầu tiên dùng dược vật tráng dương, chuyện này nếu lan truyền ra ngoài, chẳng những Triệu Nhan mất mặt, Tào Dĩnh cũng không còn mặt mũi mà sống nữa rồi.  Thậm chí bây giờ nàng đang hối hận vì vừa rồi đã ném đoản kiếm đi, nhục nhã đến thế này, cho dù liều mình khiến cửa nát nhà tan, nàng cũng không muốn phải nhẫn nhịn chút nào. 
-- Há há, đêm động phòng hoa chúc, sao có thể thiếu vật này trợ hứng?  Tiểu nương tử đừng nóng lòng, đợt lát nữa bổn vương sẽ cho nàng biết thế nào gọi là cực lạc nhân gian?
+Tào Dĩnh bây giờ đầy bụng phẫn nộ và ủy khuất, tướng mạo và tài học của nàng luôn luôn đứng đầu trong số các tỷ muội trong tộc, từ nhỏ cũng được trưởng bối trong gia tộc yêu quý. Các tỷ muội khác trong gia tộc đều muốn lấy được một sĩ tử được xướng danh trong Đông Hoa Môn, cho rằng những người đó đều là anh tài của Đại Tống, nhưng Tào Dĩnh lại luôn cho rằng chỉ có những đại tướng quân Tào Bân, Tào Vĩ tổ tiên của mình mới là đại anh hùng, đại hào kiệt chân chính.
 
 END___############### Đoạn 16 ############### 
 
+PROMPT Cho Đoạn 16:
+A beautifully dressed young woman, Tào Dĩnh, in the style of Northern Song Dynasty court paintings, stands in a traditional Chinese garden. Her expression is a mix of anger and sadness. Around her are other young women, also richly dressed, but she looks away from them towards a distant, heroic battlefield scene implied in the background, perhaps a faint mirage. This imagery represents her longing for the heroism of her ancestors, Generals Cao Bin and Cao Wei, contrasting with the aspirations of her peers.
+
 START___############### Đoạn 17 ############### 
 
-
-Triệu Nhan say rượu vốn không phát hiện ra sự phẫn nộ của Tào Dĩnh, thậm chí miệng còn ba hoa một chút về thú hoan lạc với đối phương.  Dù sao thì theo gã, Tào Dĩnh đã là nữ nhân của mình, nói chút lời thô tục có đáng kể chi. 
-Nhìn Triệu Nhan nhích từng bước lại gần mình, Tào Dĩnh chỉ cảm thấy mình sắp giận đến phát điên rồi.  Từ nhỏ đến lớn, đây là lần đầu tiên nàng chán ghét một người như vậy, thậm chí cảm thấy đứng trong cùng một căn phòng với loại người như Triệu Nhan chính là nỗi nhục lớn nhất của mình, chứ đừng nói gì đến việc phải cùng gã động phòng. 
-Nghĩ đến đây, Tào Dĩnh tính cách cương liệt bỗng nhiên giơ tay nắm lấy cây trâm trên đầu.  Vốn vì người nhà, nàng đã chuẩn bị khuất phục rồi, nhưng biểu hiện của Triệu Nhan hiện giờ đã vượt ra khỏi giới hạn của nàng, cho nên bất kể thế nào nàng cũng sẽ không để kẻ như thế chạm vào mình, mặc kệ rằng hiện giờ trên danh nghĩa nàng đã là thê tử của Triệu Nhan! 
-Mắt Triệu Nhan say xỉn, lờ đờ mông lung vốn không chú ý tới sự khác thường của Tào Dĩnh, thậm chí bây giờ trong đầu gã toàn là những hình ảnh khó coi, căn bản không có khả năng suy tính đến chuyện khác, cho nên vẻ mặt vẫn cười dâm đãng như cũ, tiến sát tới gần Tào Dĩnh. 
-Mắt thấy Tào Dĩnh sắp nhổ cây trâm trên đầu xuống, thà chết cũng không chịu khuất nhục, bỗng nhiên phía ngoài tân phòng vang lên những tiếng hô kinh ngạc, thậm chí còn kèm theo tiếng hét chói tai của thị nữ, nghe hết sức kinh hoảng.  Hình như có gì đó làm cho người ta sợ hãi đang xông vào phủ quận vương. 
-Nghe thấy tiếng động lạ bên ngoài, Tào Dĩnh dừng tay lại, Triệu Nhan cũng dừng bước chân, trên mặt hai người đều mang theo vẻ hết sức nghi hoặc.  Dù sao nơi này cũng là trong phủ quận vương, hôm nay lại là ngày đại hỉ của Triệu Nhan, xung quanh phủ quận vương đều có trọng binh canh gác, sao có thể xảy ra chuyện ngoài ý muốn?
+Tuy rằng địa vị của võ tướng Đại Tống so ra kém hơn văn thần, nhưng Tào Dĩnh lại luôn mơ ước có một ngày được gả cho một vị tướng quân trẻ tuổi, tốt nhất là một tướng quân vừa anh tuấn vừa uy dũng như Địch Thanh, đáng tiếc nàng sinh muộn vài chục năm, Địch Thanh cũng đã qua đời từ nhiều năm trước rồi.
 
 END___############### Đoạn 17 ############### 
 
+PROMPT Cho Đoạn 17:
+A young woman, Cao Ying, in Song Dynasty clothing stands wistfully by a window in a traditional Northern Song Dynasty house. She gazes towards a distant training ground where soldiers are practicing martial arts. The setting is a sunny day, and the architecture is distinctly Northern Song. Her expression is a mix of admiration and longing. She wears elegant, but not overly extravagant, clothing. The image should evoke a sense of yearning for a bygone era and a romanticized vision of a heroic general. The style should be painterly and evoke a feeling of historical accuracy.
+
 START___############### Đoạn 18 ############### 
 
+So sánh với trượng phu trong giấc mộng của Tào Dĩnh, vị Quảng Dương quận vương mà nàng phải lấy bây giờ cũng là một thái cực hoàn toàn khác, tuy rằng Tào Dĩnh chưa từng gặp Triệu Nhan, nhưng cũng đã được nghe nói về ác danh của gã, từ lời đồn đối phương tham tiền háo sắc không chuyện ác nào không làm, mấy năm trước vì dâm loạn thị nữ trong cung đã bị Hoàng hậu đuổi ra sống ngoài cung, kết quả ra khỏi cung rồi không ai quản thúc, Triệu Nhan càng trở nên càn quấy, ngày nào cũng cùng đám bạn bè thường xuyên lui tới tửu quán và kỹ quán, gần như cách vài ngày lại truyền ra chuyện gã tranh giành tình nhân với người khác mà đánh nhau, về phần thường ngày ức hiếp người lương thiện, đánh đập dân chúng đối với Triệu Nhan là chuyện cơm bữa, có thể nói ác danh của Triệu Nhan trong thành Đông Kinh không ai là không biết.
 
-Ngay khi Tào Dĩnh và Triệu Nhan cùng ngẩn người, ngoài cửa sổ vừa bị Tào Dĩnh mở toang bỗng nhiên lóe lên ánh sáng trắng, ngay sau đó một quả cầu sáng trắng lớn bằng đầu người nhẹ nhàng tiến vào, tiếp đó chỉ thấy quả cầu sáng này đi vào rồi dừng lại một chút, tiếp theo lập tức bay về hướng Triệu Nhan, kết quả Tào Dĩnh chỉ nghe thấy Triệu Nhan hét thảm một tiếng, sau đó toàn bộ tân phòng lóe lên ánh sáng trắng chói mắt, làm cho nàng theo bản năng nhắm hai mắt lại. 
-Một lát sau, khi Tào Dĩnh mở mắt ra lần nữa, lại phát hiện trong phòng cũng không có thay đổi gì lớn, cái bàn vẫn vô cùng ngay ngắn như cũ, nến đỏ vẫn sáng ngời, chỉ có Triệu Nhan đang nằm thẳng tắp trước giường, bên ngoài tuy không có vết thương gì, nhưng trên mặt toàn bộ đều đen xám, hơn nữa y phục trên người cũng bị cháy đến rách nát, có nhiều chỗ dường như còn tỏa ra vài làn khói nhẹ.  Càng khiến cho Tào Dĩnh kinh ngạc là bên cạnh Triệu Nhan hình như có thêm mấy thứ đồ kì lạ. 
-- Chuyện này… chuyện này là sao? 
-Tào Dĩnh ngây ngốc nhìn Triệu Nhan trên mặt đất, trên mặt đầy vẻ khó tin. 
-Tuy nhiên Tào Dĩnh rất nhanh đã tỉnh táo lại từ trong nỗi khiếp sợ, bất kể xảy ra chuyện gì, tình hình Triệu Nhan hiện tại cũng vô cùng không ổn, nếu chẳng may thật sự chết trong tân phòng, vậy nàng cũng không thoát khỏi liên can, thậm chí ngay đến gia tộc cũng sẽ bị liên lụy. 
-Nghĩ đến đây, Tào Dĩnh vội vàng đứng dậy, đi tới định quan sát xem đối phương sống hay chết, tuy nhiên nàng vừa mới đi tới bên cạnh Triệu Nhan đã thấy Triệu Nhan gương mặt đen xám trên mặt đất bỗng nhiên mở to mắt, đôi mắt nhìn chằm chằm vào nàng, khiến cho Tào Dĩnh hoảng sợ, đồng thời trong lòng cũng nhẹ bẫng, bởi vì ít nhất Triệu Nhan vẫn còn sống. 
+END___############### Đoạn 18 ############### 
+
+PROMPT Cho Đoạn 18:
+A vibrant yet unsettling scene in the Northern Song Dynasty's Dongjing (Kaifeng). The Quảng Dương quận vương, Triệu Nhan, a man with a cruel and dissolute face, is depicted in a lavishly decorated, yet disreputable, wine house or brothel. He is surrounded by fawning companions, engaging in excessive drinking and lewd behavior. In the background, subtle hints of violence and oppression are suggested – perhaps a cowering servant or a group of fearful citizens. The overall atmosphere is one of decadence, corruption, and fear, reflecting Triệu Nhan's notorious reputation.
+
+START___############### Đoạn 19 ############### 
+
+Vừa vặn Tào Dĩnh có một đứa em họ ngỗ ngược suốt ngày giao du đàn đúm với Triệu Nhan, cho nên so với người bình thường nàng còn hiểu rõ hơn cách làm người của Triệu Nhan. Nghĩ đến nửa đời sau của mình sẽ nắm tay đi cùng dạng người như Triệu Nhan này, Tào Dĩnh liền cảm thấy vô cùng đau khổ.
+
+END___############### Đoạn 19 ############### 
+
+PROMPT Cho Đoạn 19:
+A young woman, Cao Ying, in Northern Song Dynasty attire, stands near a window with an embroidered screen, looking distressed. In the background, slightly out of focus, are two men, one resembling Zhao Yan, laughing and drinking with others. The scene evokes a sense of Cao Ying's inner turmoil and apprehension about her future.
+
+START___############### Đoạn 20 ############### 
+
+Tính cách của nàng cương liệt, nguyện chết cũng không muốn để Triệu Nhan đụng vào một đầu ngón tay của mình, thậm chí sáng nay lúc mặc giá y, nàng còn giấu đoản kiếm nàng yêu quý nhất này vào trong người, định tự sát trong tân phòng, dùng cái chết để bảo toàn sự thanh bạch của bản thân.
+
+END___############### Đoạn 20 ############### 
+
+PROMPT Cho Đoạn 20:
+A Northern Song Dynasty bride in elaborate red wedding robes, seated on a bed in a richly decorated bridal chamber. Her expression is determined and defiant, not joyous. Subtle hints of a hidden dagger can be inferred within the folds of her clothing. Soft lighting emphasizes the contrast between her resolve and the opulent surroundings.
+
+START___############### Đoạn 21 ############### 
+
+Chỉ có điều khi Tào Dĩnh xuất giá, nàng nhìn thấy mẫu thân vừa khóc và nói xin lỗi nữ nhi, dù mẫu thân biết rõ nhân phẩm của Triệu Nhan nhưng vẫn không thể không gả con gái đi, đây tất cả đều là yêu cầu của gia tộc, mẫu thân cũng không đủ sức thay đổi. Còn phụ thân luôn kiên cường cũng tỏ vẻ áy náy, quay mặt đi không đành lòng nhìn Tào Dĩnh, tóc mai cũng có thêm không ít sợi bạc.
+
+END___############### Đoạn 21 ############### 
+
+PROMPT Cho Đoạn 21:
+A poignant scene depicting Cao Ying's wedding day during the Northern Song Dynasty. The bride, in ornate traditional wedding attire, looks on with sadness as her mother, dressed in mourning robes, weeps and apologizes. The father, standing slightly apart, turns away with a look of guilt and regret, his temples showing streaks of silver. The background shows a traditional Chinese courtyard with red lanterns and wedding decorations, but the overall atmosphere is somber rather than celebratory. Focus on the emotional weight of the scene and the visible sadness of the parents.
+
+START___############### Đoạn 22 ############### 
+
+Đại ca cõng nàng xuống lầu cũng than thở, chỉ đệ đệ muội muội và cháu trai cháu gái không hiểu chuyện mới không có tim không có phổi mà cao giọng cười đùa. Nghĩ đến người nhà của mình, Tào Dĩnh cũng không tự chủ được lại mềm lòng, nàng chết rồi thì sẽ hết lo, nhưng nhất định sẽ liên lụy đến phụ mẫu và huynh đệ tỷ muội của mình.
+
+END___############### Đoạn 22 ############### 
+
+PROMPT Cho Đoạn 22:
+A scene in a humble Northern Song Dynasty courtyard. An older man, dressed in simple scholar's robes (likely cotton, muted colors), carefully carries a woman down a wooden staircase. The woman, also in Song Dynasty attire, appears weak or unwell, her face etched with worry. In the courtyard below, a group of children (two boys and two girls, presumably the siblings and nieces/nephews mentioned) are playing and laughing, oblivious to the somber mood. The architectural details should reflect the Northern Song era: tiled roofs, wooden beams, a small garden area with potted plants. The lighting is soft and diffused, hinting at a melancholic atmosphere. The overall color palette is muted, with touches of green and brown, emphasizing the rustic and familial setting. The composition should focus on the contrast between the older man's burdened expression and the children's carefree joy.
+
+START___############### Đoạn 23 ############### 
+
+Dù sao Triệu Nhan nói thế nào cũng là hoàng tử, nếu mình tự sát trong lúc đại hôn, đây rõ ràng là làm nhục hoàng gia, chuyện lan truyền ra, để giữ thể diện cho hoàng gia, Tào gia bọn họ nhất định sẽ bị xử phạt, có lẽ toàn bộ gia tộc Tào thị sẽ không sao, nhưng đối với riêng chi của phụ thân Tào Dĩnh mà nói, nhất định sẽ trở thành sự đả kích to lớn, thậm chí gia tộc Tào thị để bảo toàn thanh danh của mình có thể sẽ trục xuất chi tộc nhân này của phụ thân ra khỏi gia tộc cũng không chừng.
+
+END___############### Đoạn 23 ############### 
+
+PROMPT Cho Đoạn 23:
+A tense scene inside a lavishly decorated bridal chamber in the Northern Song Dynasty. The bride, dressed in elaborate red wedding robes, is contemplating a dagger in her hand. Her face is a mix of determination and despair. Around her, wedding decorations symbolize the impending nuptials. The scene should convey the weight of her decision and the potential consequences for her family.
+
+START___############### Đoạn 24 ############### 
+
+Nghĩ đến nếu mình tự sát sẽ mang đến hậu quả nghiêm trọng cho gia tộc, điều này làm cho Tào Dĩnh không khỏi thở dài một tiếng, đứng lên đi đến trước cửa sổ, đẩy cửa sổ ra nhìn ngắm bầu trời âm u bên ngoài. Mặc dù là ban đêm nhưng trong tầng mây thỉnh thoảng có những tia chớp nhỏ xẹt ngang, mơ hồ cũng có tiếng sấm truyền đến, thoạt nhìn thật giống như trời sắp mưa. - Trời xanh ơi trời xanh, nếu ông thật sự linh nghiệm, vậy hãy đánh thẳng sấm sét xuống, đánh chết tên ác nhân Triệu Nhan ấy đi.
+
+END___############### Đoạn 24 ############### 
+
+PROMPT Cho Đoạn 24:
+A young woman, Cao Ying, in traditional Northern Song Dynasty clothing, stands by an open window in a dimly lit room. Her face is etched with despair. Outside, the sky is dark and overcast, with flashes of lightning intermittently illuminating the scene. The suggestion of rain is present in the atmospheric haze, creating a sense of foreboding. The room is sparsely furnished, indicating her noble but perhaps constrained circumstances.
+
+START___############### Đoạn 25 ############### 
+
+Sau này ta nhất định sẽ ăn chay niệm Phật, cả đời hành thiện báo đáp ân tình của trời xanh! Tào Dĩnh ngẩng đầu nhìn khoảng không nặng nề, bỗng nhiên có vài ý nghĩ kì lạ, mở miệng thấp giọng khẩn cầu, nhưng khiến cho nàng thất vọng, sấm sét trên bầu trời không chút biến hóa, vẫn như trước không nhanh không chậm quay cuồng trong tầng mây, càng không có khả năng bổ trúng tên Triệu Nhan đang uống rượu ở tiền điện. Nhìn đến đây, Tào Dĩnh lại thở dài.
+
+END___############### Đoạn 25 ############### 
+
+PROMPT Cho Đoạn 25:
+A young woman, Cao Ying, kneeling on a stone floor in a dimly lit room within a palace of the Northern Song Dynasty. Her head is tilted upwards, gazing at a stormy sky visible through a high window. Lightning flashes are reflected in her tearful eyes. She is wearing simple silk robes. In the background, hints of ornate wooden screens and traditional Chinese architecture are visible. The scene is filled with a sense of quiet desperation and unspoken prayer. The lighting is dramatic, with strong contrasts between light and shadow, emphasizing her vulnerability.
+
+START___############### Đoạn 26 ############### 
+
+Nàng cũng biết bản thân chỉ vọng tưởng mà thôi, trước mắt nàng đã chính thức bái thiên địa với Triệu Nhan rồi, hơn nữa còn bái kiến quan gia Triệu Thự và Cao hoàng hậu, điều này cũng có nghĩa bọn họ đã chính thức là phu thê, cho dù là thần tiên hạ phàm, chỉ sợ cũng không thể thay đổi sự thật này.
+
+END___############### Đoạn 26 ############### 
+
+PROMPT Cho Đoạn 26:
+undefined
+
+START___############### Đoạn 27 ############### 
+
+Tào Dĩnh cúi đầu nhìn bảo kiếm đang nắm chặt trong tay, thanh kiếm này là khi sinh nhật nàng, tổ phụ đã tặng cho nàng, chẳng những bề ngoài hoa mỹ mà còn sắc bén dị thường, lúc nào cũng là vật nàng yêu quý. Chỉ có điều bảo kiếm dù lợi, nhưng không chém đứt nổi thân tình của thế gian, ít nhất hiện giờ Tào Dĩnh muốn dứt bỏ ngay những dây dưa với người đối diện nhưng lại không thể được. - Nếu đã không dùng được, vậy còn giữ ngươi lại làm gì?
+
+END___############### Đoạn 27 ############### 
+
+PROMPT Cho Đoạn 27:
+A young woman, Tào Dĩnh, in Northern Song Dynasty (960-1127) clothing, stands in a courtyard. She is looking down at a beautifully crafted sword in her hand, her expression conflicted and melancholic. The sword has intricate designs and shines in the soft sunlight. The courtyard features traditional Northern Song architecture - wooden pillars, tiled roofs, and a stone-paved ground. The scene conveys a sense of internal struggle and sadness. The art style should resemble a detailed historical illustration, reminiscent of traditional Chinese painting with a touch of photorealism.
+
+START___############### Đoạn 28 ############### 
+
+Tào Dĩnh nói xong bỗng nhiên vung tay lên, cầm bảo kiếm nàng yêu quý trong tay dùng sức ném ra ngoài cửa sổ, kết quả rất nhanh đã truyền đến tiếng rơi xuống nước, ngoài cửa sổ không xa là một hồ nước, bảo kiếm rơi xuống nước, phỏng chừng cũng không thể tìm được nữa rồi. Mắt thấy không lâu nữa sẽ tới giờ Hợi, tiệc cưới ở tiền điện cũng tiến hành gần xong rồi, Tào Dĩnh vẻ mặt đờ đẫn trở lại ngồi trên giường. Nếu vận mệnh đã như thế, nàng cũng chỉ có thể lựa chọn cách thuận theo.
+
+END___############### Đoạn 28 ############### 
+
+PROMPT Cho Đoạn 28:
+A young woman, Tao Ying, in elaborate Northern Song Dynasty bridal attire, sits forlornly on a silk-covered bed in a dimly lit room. Her face is pale and expressionless. Through an open window, visible in the background, is a dark lake reflecting the moonlight. Ripples on the water's surface suggest something has recently been thrown in. The scene evokes a sense of resignation and sorrow, fitting the description of her having thrown her sword into the lake.
+
+START___############### Đoạn 29 ############### 
+
+“Rầm” một tiếng vang lớn, cửa lớn tân phòng bị người đột nhiên đẩy ra, một mùi rượu nồng nặc cũng xộc vào, điều này làm cho hai mày của Tào Dĩnh nhíu lại, ngay sau đó một bóng dáng lảo đảo xông vào trong phòng, sau đó thị nữ phía ngoài lặng lẽ đóng cửa tân phòng lại. Không cần hỏi, tên uống say mèm này khẳng định chính là Quảng Dương quận vương Triệu Nhan nổi tiếng xấu xa rồi.
+
+END___############### Đoạn 29 ############### 
+
+PROMPT Cho Đoạn 29:
+A Northern Song Dynasty bridal chamber. The large wooden doors have just been violently thrown open. A drunken man, presumably Guangyang Prince Zhao Yan, stumbles into the room, his figure unsteady and reeking of alcohol. Cao Ying, the bride, is present, her eyebrows furrowed in displeasure. A maidservant discreetly closes the door behind the prince. The room is decorated with traditional red bridal decorations; candles, silk hangings. The overall lighting is dim and warm, reflecting the candlelit atmosphere.
+
+START___############### Đoạn 30 ############### 
+
+Tuy rằng Tào Dĩnh đã tâm như tro tàn, nhưng đối với vị lang quân tương lai này của mình, nàng vẫn không kìm nổi có chút tò mò, lập tức nghiêng đầu sang chỗ khác liếc mắt nhìn đối phương một cái, chỉ có điều kết quả làm nàng cực kỳ thất vọng.
+
+END___############### Đoạn 30 ############### 
+
+PROMPT Cho Đoạn 30:
+A young woman named Cao Ying, dressed in elegant Song Dynasty attire, seated in a palanquin decorated with intricate carvings. Her expression is melancholic, suggesting a weary heart. She discreetly glances to her left, a hint of curiosity in her eyes. The glimpse reveals a young man in formal attire, walking beside the palanquin. The scene is set against the backdrop of a bustling Northern Song Dynasty street, with vendors selling goods and people going about their daily lives. The lighting is soft and diffused, conveying a sense of delicate beauty and subdued emotion. The overall composition should emphasize Cao Ying's disappointment and the societal constraints of the time.
+
+START___############### Đoạn 31 ############### 
+
+Mượn ánh nến trong tân phòng, Tào Dĩnh có thể thấy rất rõ diện mạo của Triệu Nhan, chỉ thấy vẻ ngoài của đối phương cũng không khó coi, thậm chí còn được coi là có chút anh tuấn, nhưng sắc mặt Triệu Nhan lại xanh trắng không bình thường, quầng mắt thâm lại, hai gò má hơi lõm xuống, cả người thoạt nhìn rất phờ phạc.
+
+END___############### Đoạn 31 ############### 
+
+PROMPT Cho Đoạn 31:
+A dimly lit bridal chamber in the Northern Song Dynasty. The flickering candlelight illuminates a young woman, Cao Ying, observing Zhao Yan, her new husband. Zhao Yan is handsome but appears sickly, with a pale, almost greenish complexion, dark circles under his eyes, and slightly sunken cheeks. His overall appearance is exhausted and frail. The scene should capture the intimate yet uneasy atmosphere of the room, with traditional Song Dynasty furniture and decor visible.
+
+START___############### Đoạn 32 ############### 
+
+Tổ phụ của Tào Dĩnh tinh thông y thuật, cực kỳ có danh tiếng ở Đại Tống, thuở nhỏ nàng cũng theo ông nội học chút y thuật, cảnh này trong giới quý tộc càng khiến nàng cảm thấy không bình thường.
+
+END___############### Đoạn 32 ############### 
+
+PROMPT Cho Đoạn 32:
+A young woman, Cao Ying, in Northern Song Dynasty aristocratic clothing, stands beside her elderly grandfather. He is dressed in traditional doctor's robes and is examining medicinal herbs. The scene takes place in a traditional Chinese courtyard garden with classical architecture in the background. The lighting is soft and natural, highlighting the delicate features of Cao Ying and the wisdom in her grandfather's eyes. The overall atmosphere conveys a sense of learning, tradition, and slightly unconventional aristocratic pursuits.
+
+START___############### Đoạn 33 ############### 
+
+Đối với hoàn cảnh như của Triệu Nhan thế này, Tào Dĩnh liếc qua đã thấy đối phương là do tửu sắc quá độ gây nên, mặc dù đối phương còn trẻ có thể tĩnh dưỡng để hồi phục trở lại, nhưng cũng cần phải tốn không ít thời gian cùng với nghị lực tương đối lớn, mà Tào Dĩnh hiển nhiên không cho rằng tên Triệu Nhan này có thể có được nghị lực lớn đến thế.
+
+END___############### Đoạn 33 ############### 
+
+PROMPT Cho Đoạn 33:
+A Northern Song Dynasty doctor, Cao Ying, in his humble clinic, examines Zhao Yan, a pale and dissipated young man in his late twenties, showing signs of overindulgence in wine and women. Cao Ying, with a skeptical expression, observes Zhao Yan's weak posture and unhealthy complexion. The clinic is simply furnished with traditional Chinese medicine tools and herbal remedies. Soft light illuminates the scene, emphasizing Zhao Yan's unhealthy appearance.
+
+START___############### Đoạn 34 ############### 
+
+Chỉ thấy sau khi Triệu Nhan say xỉn đôi mắt lờ đờ mông lung đi vào tân phòng, ngẩng đầu nhìn tân nương tử xinh đẹp vô cùng, lập tức cười hắc hắc nói:
+- Quả nhiên không hổ là đệ nhất mỹ nữ của tướng môn, Triệu Nhan ta thật đúng là quá may mắn, không ngờ lại cưới được tiểu nương tử xinh đẹp như vậy! Đối với lời khen của Triệu Nhan về dung mạo của mình, Tào Dĩnh cũng không có chút phản ứng nào. Triệu Nhan cũng uống rượu say, căn bản không chú ý đến vẻ đờ đẫn trên mặt Tào Dĩnh.
+
+END___############### Đoạn 34 ############### 
+
+PROMPT Cho Đoạn 34:
+A Northern Song Dynasty wedding chamber. Zhao Yan, visibly drunk with flushed cheeks and unfocused eyes, stumbles into the room. He gazes at the bride, Cao Ying, who is seated on the bed, dressed in elaborate red wedding attire. Zhao Yan is grinning widely, seemingly admiring her beauty. Cao Ying's face is expressionless and vacant, contrasting with Zhao Yan's intoxicated joy. The room is decorated with traditional red and gold ornaments, candles, and silk hangings. Focus on capturing the contrast in their expressions and the opulent setting.
+
+START___############### Đoạn 35 ############### 
+
+Chỉ thấy gã thất tha thất thểu đi tới trước bàn, tự rót cho mình một chén rượu, sau đó từ trong ngực lấy ra một cái bình sứ nhỏ, mở nút bình ra cười khinh khỉnh nhìn Tào Dĩnh, rắc bột phấn trong bình vào chén rượu rồi uống một hơi cạn sạch.
+
+END___############### Đoạn 35 ############### 
+
+PROMPT Cho Đoạn 35:
+A scene in a Northern Song Dynasty tavern. A disheveled man stumbles to a table, pouring himself a cup of wine. He smirks at Cao Ying and empties a small porcelain vial of powder into the wine before drinking it in one gulp. The tavern is dimly lit, with wooden tables and benches. Patrons look on with concern and curiosity.
+
+START___############### Đoạn 36 ############### 
+
+Chiếc bàn cách Tào Dĩnh không xa, khi Triệu Nhan đang mở bình sứ ra, nàng đã ngửi thấy một mùi thuốc đông y, cũng biết rõ y lý và dược tính, Tào Dĩnh lập tức phân biệt được đây là thuốc gì, thậm chí chính mắt nàng còn nhìn thấy ba chữ viết trên bình sứ, như thế cho dù nàng không hiểu dược tính, chỉ dựa vào tên này cũng có thể đoán được Triệu Nhan đang dùng chính là thuốc tráng dương.
+
+END___############### Đoạn 36 ############### 
+
+PROMPT Cho Đoạn 36:
+A dimly lit room in a Northern Song Dynasty home. Cao Ying, dressed in fine silks, observes Zhao Yan from a distance. Zhao Yan is carefully opening a small porcelain jar on a low table. The jar is labeled with three Chinese characters (清晰显示 '壮阳药' - Zhuàngyáng yào). The lighting highlights Cao Ying's astute and slightly concerned expression as she recognizes the medicinal aroma and reads the label.
+
+START___############### Đoạn 37 ############### 
+
+- Ngươi…
+Phát hiện này khiến Tào Dĩnh thiếu chút nữa tức đến ngất xỉu, hai tay nắm lấy vạt áo của mình, trong đôi mắt phượng cũng tràn ngập sự khuất nhục và lửa giận. Tân lang trong đêm tân hôn đầu tiên dùng dược vật tráng dương, chuyện này nếu lan truyền ra ngoài, chẳng những Triệu Nhan mất mặt, Tào Dĩnh cũng không còn mặt mũi mà sống nữa rồi.
+
+END___############### Đoạn 37 ############### 
+
+PROMPT Cho Đoạn 37:
+A woman in Northern Song Dynasty bridal attire, face flushed with anger and humiliation, gripping her robes. Her eyes, shaped like a phoenix, are filled with fury and tears. The background is a dimly lit bridal chamber, suggesting a hidden scandal. Include details of Song Dynasty silk fabrics and traditional furniture.
+
+START___############### Đoạn 38 ############### 
+
+Thậm chí bây giờ nàng đang hối hận vì vừa rồi đã ném đoản kiếm đi, nhục nhã đến thế này, cho dù liều mình khiến cửa nát nhà tan, nàng cũng không muốn phải nhẫn nhịn chút nào. - Há há, đêm động phòng hoa chúc, sao có thể thiếu vật này trợ hứng? Tiểu nương tử đừng nóng lòng, đợt lát nữa bổn vương sẽ cho nàng biết thế nào gọi là cực lạc nhân gian? Triệu Nhan say rượu vốn không phát hiện ra sự phẫn nộ của Tào Dĩnh, thậm chí miệng còn ba hoa một chút về thú hoan lạc với đối phương.
+
+END___############### Đoạn 38 ############### 
+
+PROMPT Cho Đoạn 38:
+A dimly lit bridal chamber in a Northern Song Dynasty palace. A drunken prince, Triệu Nhan, with disheveled robes, leers at a defiant bride, Tào Dĩnh, whose face is etched with anger and humiliation. A discarded short sword lies on the floor, hinting at her earlier resistance. Rich fabrics and ornate furniture typical of the era are visible, but contribute to a sense of oppressive confinement. The scene captures the tension and power imbalance between the two characters, emphasizing Tào Dĩnh's inner turmoil.
+
+START___############### Đoạn 39 ############### 
+
+Dù sao thì theo gã, Tào Dĩnh đã là nữ nhân của mình, nói chút lời thô tục có đáng kể chi. Nhìn Triệu Nhan nhích từng bước lại gần mình, Tào Dĩnh chỉ cảm thấy mình sắp giận đến phát điên rồi. Từ nhỏ đến lớn, đây là lần đầu tiên nàng chán ghét một người như vậy, thậm chí cảm thấy đứng trong cùng một căn phòng với loại người như Triệu Nhan chính là nỗi nhục lớn nhất của mình, chứ đừng nói gì đến việc phải cùng gã động phòng.
+
+END___############### Đoạn 39 ############### 
+
+PROMPT Cho Đoạn 39:
+A tense scene inside a Northern Song Dynasty bedroom. Cao Ying, a beautiful woman in traditional silk robes, stands rigidly, her face a mixture of anger and disgust. Zhao Yan, a man in fine but slightly disheveled clothing, leers at her, advancing with a smug expression. The room is decorated with traditional Chinese furniture and screens, emphasizing the confinement and Cao Ying's trapped feeling. Soft lighting with a slightly desaturated color palette to convey the somber mood.
+
+START___############### Đoạn 40 ############### 
+
+Nghĩ đến đây, Tào Dĩnh tính cách cương liệt bỗng nhiên giơ tay nắm lấy cây trâm trên đầu. Vốn vì người nhà, nàng đã chuẩn bị khuất phục rồi, nhưng biểu hiện của Triệu Nhan hiện giờ đã vượt ra khỏi giới hạn của nàng, cho nên bất kể thế nào nàng cũng sẽ không để kẻ như thế chạm vào mình, mặc kệ rằng hiện giờ trên danh nghĩa nàng đã là thê tử của Triệu Nhan!
+
+END___############### Đoạn 40 ############### 
+
+PROMPT Cho Đoạn 40:
+A Northern Song Dynasty woman, Cao Ying, with a determined expression, raising her hand to grasp a hairpin in her hair. She is in a traditional Chinese room, perhaps a bridal chamber, with red and gold decorations. Her face reflects a mix of anger and resolve. She is dressed in elaborate Song Dynasty clothing, but her posture suggests defiance, not submission. The lighting is dramatic, emphasizing her internal conflict.
+
+START___############### Đoạn 41 ############### 
+
+Mắt Triệu Nhan say xỉn, lờ đờ mông lung vốn không chú ý tới sự khác thường của Tào Dĩnh, thậm chí bây giờ trong đầu gã toàn là những hình ảnh khó coi, căn bản không có khả năng suy tính đến chuyện khác, cho nên vẻ mặt vẫn cười dâm đãng như cũ, tiến sát tới gần Tào Dĩnh.
+
+END___############### Đoạn 41 ############### 
+
+PROMPT Cho Đoạn 41:
+A drunken Zhao Yan, eyes glazed and unfocused, approaches Cao Ying in a dimly lit room. Zhao Yan's face is flushed and leering, while Cao Ying's expression is unreadable in the shadows. The scene is set within a Northern Song Dynasty-style interior, with traditional furniture and decorations visible. Zhao Yan is wearing a silk robe, slightly disheveled, while Cao Ying is dressed in a more modest gown. The lighting is soft, with lanterns casting long shadows across the room, emphasizing the contrast between Zhao Yan's drunken state and Cao Ying's mysterious demeanor. The background features a painted screen depicting a landscape scene, adding a touch of elegance to the otherwise tense atmosphere.
+
+START___############### Đoạn 42 ############### 
+
+Mắt thấy Tào Dĩnh sắp nhổ cây trâm trên đầu xuống, thà chết cũng không chịu khuất nhục, bỗng nhiên phía ngoài tân phòng vang lên những tiếng hô kinh ngạc, thậm chí còn kèm theo tiếng hét chói tai của thị nữ, nghe hết sức kinh hoảng. Hình như có gì đó làm cho người ta sợ hãi đang xông vào phủ quận vương. Nghe thấy tiếng động lạ bên ngoài, Tào Dĩnh dừng tay lại, Triệu Nhan cũng dừng bước chân, trên mặt hai người đều mang theo vẻ hết sức nghi hoặc.
+
+END___############### Đoạn 42 ############### 
+
+PROMPT Cho Đoạn 42:
+A tense scene inside a Northern Song Dynasty bridal chamber. Cao Ying, dressed in a red wedding gown, is about to pull a hairpin from her hair, her face determined and desperate. Zhao Yan, in elegant robes, is frozen mid-step, his expression surprised. Outside the room, visible through the open doorway, are panicked servants running and screaming in terror. The overall atmosphere is one of sudden, chaotic disruption. Soft, diffused light from traditional lanterns illuminates the room, highlighting the contrast between the intimate space and the external chaos. Use elements like silk fabrics, ornate furniture, and traditional Chinese hairstyles to reinforce the Northern Song Dynasty setting.
+
+START___############### Đoạn 43 ############### 
+
+Dù sao nơi này cũng là trong phủ quận vương, hôm nay lại là ngày đại hỉ của Triệu Nhan, xung quanh phủ quận vương đều có trọng binh canh gác, sao có thể xảy ra chuyện ngoài ý muốn?
+
+END___############### Đoạn 43 ############### 
+
+PROMPT Cho Đoạn 43:
+A bustling scene outside the main gate of a grand mansion in the Northern Song Dynasty. Heavily armored soldiers stand guard, their faces stern. Festive red lanterns adorn the gate, indicating a wedding celebration. People dressed in traditional Song Dynasty attire are entering and exiting the mansion, with a general sense of security and festivity. The mansion is clearly the residence of a high-ranking official, possibly a prince.
+
+START___############### Đoạn 44 ############### 
+
+Ngay khi Tào Dĩnh và Triệu Nhan cùng ngẩn người, ngoài cửa sổ vừa bị Tào Dĩnh mở toang bỗng nhiên lóe lên ánh sáng trắng, ngay sau đó một quả cầu sáng trắng lớn bằng đầu người nhẹ nhàng tiến vào, tiếp đó chỉ thấy quả cầu sáng này đi vào rồi dừng lại một chút, tiếp theo lập tức bay về hướng Triệu Nhan, kết quả Tào Dĩnh chỉ nghe thấy Triệu Nhan hét thảm một tiếng, sau đó toàn bộ tân phòng lóe lên ánh sáng trắng chói mắt, làm cho nàng theo bản năng nhắm hai mắt lại.
+
+END___############### Đoạn 44 ############### 
+
+PROMPT Cho Đoạn 44:
+A dimly lit bridal chamber in the Northern Song Dynasty. Through an open window, a ball of white light, the size of a human head, floats into the room. Zhao Yan stands near the light, appearing startled and about to scream, while Cao Ying stands near the window, also startled. The scene is filled with a soft, ethereal white glow, suggesting something magical or otherworldly is happening. Details should include traditional Song Dynasty clothing and room decor.
+
+START___############### Đoạn 45 ############### 
+
+Một lát sau, khi Tào Dĩnh mở mắt ra lần nữa, lại phát hiện trong phòng cũng không có thay đổi gì lớn, cái bàn vẫn vô cùng ngay ngắn như cũ, nến đỏ vẫn sáng ngời, chỉ có Triệu Nhan đang nằm thẳng tắp trước giường, bên ngoài tuy không có vết thương gì, nhưng trên mặt toàn bộ đều đen xám, hơn nữa y phục trên người cũng bị cháy đến rách nát, có nhiều chỗ dường như còn tỏa ra vài làn khói nhẹ. Càng khiến cho Tào Dĩnh kinh ngạc là bên cạnh Triệu Nhan hình như có thêm mấy thứ đồ kì lạ.
+
+END___############### Đoạn 45 ############### 
+
+PROMPT Cho Đoạn 45:
+A dimly lit room in a Northern Song Dynasty home. Cao Ying, eyes wide with shock, kneels beside the bed. Zhao Yan lies motionless on the floor, his face ashen and streaked with black. His clothing is tattered and singed, wisps of smoke rising from it. Strange, unfamiliar objects are scattered around him. A table with neatly arranged items and burning red candles provides the only light source. Rendered in a realistic style with a muted color palette to evoke a sense of mystery and dread.
+
+START___############### Đoạn 46 ############### 
+
+- Chuyện này… chuyện này là sao? Tào Dĩnh ngây ngốc nhìn Triệu Nhan trên mặt đất, trên mặt đầy vẻ khó tin. Tuy nhiên Tào Dĩnh rất nhanh đã tỉnh táo lại từ trong nỗi khiếp sợ, bất kể xảy ra chuyện gì, tình hình Triệu Nhan hiện tại cũng vô cùng không ổn, nếu chẳng may thật sự chết trong tân phòng, vậy nàng cũng không thoát khỏi liên can, thậm chí ngay đến gia tộc cũng sẽ bị liên lụy.
+
+END___############### Đoạn 46 ############### 
+
+PROMPT Cho Đoạn 46:
+A lavishly decorated bridal chamber in the Northern Song Dynasty. Tào Dĩnh, a young woman in traditional Song dynasty dress, stares in disbelief at Zhao Yan, a man lying motionless on the floor. Her expression is a mix of shock and growing panic. Red silk decorations and candles illuminate the room. Render in a realistic style with attention to detail in the clothing and setting.
+
+START___############### Đoạn 47 ############### 
+
+Nghĩ đến đây, Tào Dĩnh vội vàng đứng dậy, đi tới định quan sát xem đối phương sống hay chết, tuy nhiên nàng vừa mới đi tới bên cạnh Triệu Nhan đã thấy Triệu Nhan gương mặt đen xám trên mặt đất bỗng nhiên mở to mắt, đôi mắt nhìn chằm chằm vào nàng, khiến cho Tào Dĩnh hoảng sợ, đồng thời trong lòng cũng nhẹ bẫng, bởi vì ít nhất Triệu Nhan vẫn còn sống.
+
+END___############### Đoạn 47 ############### 
+
+PROMPT Cho Đoạn 47:
+A young woman, Cao Ying, in Northern Song Dynasty clothing, kneels beside a man, Zhao Yan, lying on the ground. Zhao Yan's face is ashen, but his eyes are wide open, staring at Cao Ying. Cao Ying's expression is a mix of shock and relief. The background is a simple, perhaps slightly overgrown area, suggesting a secluded location.
+
+START___############### Đoạn 48 ############### 
+
+Tuy nhiên khiến Tào Dĩnh tuyệt đối không thể tin được chính là, sau khi Triệu Nhan mở to mắt nhìn nàng, bỗng nhiên trên mặt lộ ra vẻ vô cùng bi phẫn, chống tay ngồi dậy lớn tiếng gào lên với nàng:
+- Tiên nữ tỷ tỷ, không phải ta chỉ trộm của lão hương một củ khoai lang và hai bắp ngô thôi ư, sao tỷ lại lấy tia chớp bổ xuống ta chứ? Bắc Tống tháng năm năm Trị Bình thứ nhất, phủ quận vương Quảng Dương trong thành Khai Phong giăng đèn kết hoa, tiếng pháo nổ bên tai không dứt.
+
+END___############### Đoạn 48 ############### 
+
+PROMPT Cho Đoạn 48:
+A young boy, dressed in simple, slightly ragged clothing typical of rural Northern Song Dynasty, sitting up in a field. His eyes are wide with fear and anger. He is gesturing upwards dramatically. In the background, dark storm clouds gather, with a faint streak of lightning. The boy is surrounded by harvested fields, with humble farmhouses visible in the distance. In the far background, the faint outline of Kaifeng city can be seen, with celebratory lanterns and firecrackers vaguely visible above the city walls. The overall tone is dramatic and slightly fantastical, emphasizing the boy's perceived injustice. The style should be painterly, reminiscent of Song Dynasty landscape paintings, but with a focus on the emotional expression of the boy.
+
+START___############### Đoạn 49 ############### 
+
+Trước cửa lớn có hai con sư tử bằng đá trấn thủ đỗ đầy xe ngựa, vô số nô bộc đứng bên cạnh xe ngựa chờ chủ nhân dự tiệc, đám nô bộc ấy sắc mặt đều vui mừng phấn khởi, bởi vì hôm nay bọn họ nhận được không ít tiền thưởng. Hôm nay là ngày đại hôn của quận vương Quảng Dương. Người có thể vào phủ quận vương chúc mừng đều là những quyền quý nổi danh trong thành Khai Phong, thậm chí quan viên từ tứ phẩm trở xuống cũng không có tư cách bước vào phủ dự tiệc.
+
+END___############### Đoạn 49 ############### 
+
+PROMPT Cho Đoạn 49:
+A grand entrance to a Northern Song Dynasty prince's mansion in Kaifeng. Two stone lions guard the gate. Numerous horse-drawn carriages are parked, with servants standing beside them, looking joyful. The scene depicts the wedding day of Prince Guangyang, with an air of nobility and celebration. Focus on detailed clothing, architecture, and facial expressions to convey the festive atmosphere and social hierarchy.
+
+START___############### Đoạn 50 ############### 
+
+Cho nên hôm nay người có thể vào phủ quận vương, bản thân đều có một thân phận đặc trưng, chẳng những người dự tiệc cảm thấy vinh quang mà đám người làm chờ bên ngoài cũng cảm thấy hãnh diện, trong ánh mắt nhìn dân chúng góp vui cũng lộ vẻ khinh thường.
+
+END___############### Đoạn 50 ############### 
+
+PROMPT Cho Đoạn 50:
+A bustling scene outside the opulent gates of the Prince's mansion during the Northern Song Dynasty. Sumptuously dressed guests in Song Dynasty attire (robes, hats, jade ornaments) are entering, some with servants carrying gifts. Commoners gather to watch, their clothing simple and plain. Palace guards in elaborate armor stand rigidly at the gate, their faces impassive, conveying a sense of superiority as they glance at the onlookers. The architecture is traditional Chinese, with red walls, tiled roofs, and intricate carvings. The color palette is rich and vibrant, with reds, golds, and blues dominating the scene. Emphasize the contrast between the wealthy entering the mansion and the commoners outside.
+
+START___############### Đoạn 51 ############### 
+
+Quận vương Quảng Dương tên là Triệu Nhan, là nhi tử thứ ba của đương kim Thánh thượng, năm nay mới mười lăm tuổi, là cậu ấm nổi danh trong thành Khai Phong, ngày thường hay đánh nhau ẩu đả với một đám bạn xấu, đánh bạc dâm loạn không từ bất cứ việc xấu gì, bất kể là trong giới quý tộc hay trong dân gian, Quảng Dương quận vương đều là một tay ăn chơi khét tiếng.
+
+END___############### Đoạn 51 ############### 
+
+PROMPT Cho Đoạn 51:
+A vibrant painting depicting a lavish gambling den in the Northern Song Dynasty, with noble youths, including a distinctly arrogant and youthful figure identified as Triệu Nhan (15 years old, the Prince of Guangyang), gambling with stacks of coins. The scene is filled with richly dressed individuals, courtesans, and servants, emphasizing the opulent and somewhat debauched atmosphere. The architecture and clothing should accurately reflect the style of the Northern Song Dynasty.  Focus on capturing the sense of youthful recklessness and moral decay associated with the prince's reputation.
+
+START___############### Đoạn 52 ############### 
+
+Tuy rằng thanh danh của Triệu Nhan không thể cứu vãn nổi, nhưng dù sao gã cũng là nhi tử của hoàng đế bệ hạ Đại Tống, cho nên vào đại hôn của gã, tất cả quyền quý có máu mặt trong thành Khai Phong đều phải đến nhà bái hạ. Hơn nữa hoàng đế Đại Tống bây giờ tên là Triệu Thự, là vị hoàng đế thứ tám của triều Đại Tống, chính là Tống Anh Tông trong lịch sử. Trên sử sách không ghi lại quá nhiều về Tống Anh Tông, bởi vì y chỉ làm hoàng đế có bốn năm.
+
+END___############### Đoạn 52 ############### 
+
+PROMPT Cho Đoạn 52:
+undefined
+
+START___############### Đoạn 53 ############### 
+
+Năm nay chính là năm đầu tiên Triệu Thự đăng cơ, con lớn nhất chính là Tống Thần Tông Triệu Húc trong lịch sử, người đã ủng hộ cuộc cải cách của Vương An Thạch. Triệu Nhan, người thành hôn hôm nay chính là đệ đệ cùng mẹ với Triệu Húc. Trong đại điện và trắc điện của phủ quận vương, một tiệc cưới xa hoa đang được cử hành. Quý tộc và quan viên có tiếng trong thành Khai Phong đều dẫn theo gia quyến hội tụ ở đây, một đám đều đang uống say nghiêng ngả.
+
+END___############### Đoạn 53 ############### 
+
+PROMPT Cho Đoạn 53:
+An opulent wedding banquet scene inside a Northern Song Dynasty (960-1127) Prince's mansion in Kaifeng. High-ranking officials and noble families, dressed in traditional Song Dynasty attire, are feasting and drinking merrily. The hall is lavishly decorated with red and gold fabrics, ornate lanterns, and elaborate floral arrangements. A glimpse of a young Zhao Xu (later Emperor Shenzong) can be seen amongst the guests. The atmosphere is celebratory and boisterous. Emphasize the wealth and status of the attendees through their clothing and surroundings.
+
+START___############### Đoạn 54 ############### 
+
+Vốn dĩ tới tham gia tiệc cưới của người khác hẳn là chuyện rất đáng vui mừng, nhưng nếu cẩn thận quan sát sẽ thấy ngay, trên mặt không ít con cháu quý tộc trẻ tuổi dự tiệc đều không có bất kỳ nét vui mừng nào. Bọn họ hoặc bi phẫn, hoặc ghen tị, hoặc nản lòng uống rượu mừng, đây vốn là rượu ngon ngự tứ chốn cung đình, bọn họ uống vào lại đều biến thành chén rượu đắng cay đau khổ khó có thể nuốt trôi. Ngược lại, đại bộ phận các nữ quyến dự tiệc ở trắc điện đều mang vẻ mặt vui mừng.
+
+END___############### Đoạn 54 ############### 
+
+PROMPT Cho Đoạn 54:
+A wide shot inside a grand hall during a wedding banquet in the Northern Song Dynasty. The left side of the hall shows young noblemen with expressions of resentment, envy, and disappointment while drinking. Some are holding cups with tight grips. The right side of the hall shows noblewomen with joyful and excited expressions, subtly looking towards the noblemen's side. Tables are laden with food and wine, reflecting the opulence of the setting. Clothing and architecture are distinctly Northern Song Dynasty style.
+
+START___############### Đoạn 55 ############### 
+
+Các quý phụ lớn tuổi trong nhà có con đều rạo rực thảo luận về chuyện đính hôn của con mình, hai năm trước đứa con nhà mình có chết cũng không chịu đính hôn, bây giờ hẳn đã hết hy vọng rồi, các nàng cũng có thể bế cháu trai sớm một chút. Các tiểu thư trẻ trung con nhà quan gia cũng tụ tập lại một chỗ, vừa xấu hổ che mặt vừa nhỏ giọng thảo luận xem công tử nhà ai có tài văn chương kha khá, sau này nên chọn phu quân có dáng vẻ như thế nào?
+
+END___############### Đoạn 55 ############### 
+
+PROMPT Cho Đoạn 55:
+undefined
+
+START___############### Đoạn 56 ############### 
+
+Sở dĩ có cảnh tượng nam nữ hoàn toàn khác biệt như thế, tất cả là bởi Quảng Dương quận vương phi mới được tấn phong. Vị vương phi này họ Tào tên Dĩnh, vốn là con gái của gia tướng Tào thị đứng đầu Đại Tống, chẳng những dáng vẻ khuynh quốc khuynh thành mà nữ công và tài học cũng đứng đầu trong các tiểu thư nhà gia tướng, nghe nói còn hiểu biết về y thuật.
+
+END___############### Đoạn 56 ############### 
+
+PROMPT Cho Đoạn 56:
+A painting depicting Cao Ying, the newly appointed Princess of Guangyang, during the Northern Song Dynasty. She is shown with a beautiful and dignified appearance, wearing elegant Song Dynasty clothing and jewelry. The scene could be set in a well-lit room, perhaps showcasing her calligraphy skills or a medical book on a table. The overall style should reflect traditional Chinese painting with delicate brushstrokes and vibrant colors.
+
+START___############### Đoạn 57 ############### 
+
+Hơn nữa Tào thị lại là gia tướng đứng đầu Đại Tống, đương kim Tào Thái hậu chính là xuất thân từ Tào thị, Tào Dĩnh chính là con gái của cháu ruột Tào Thái hậu, xuất thân có thể nói là cực kỳ cao quý. Cô gái như Tào Dĩnh đương nhiên là đối tượng liên nhân mà vạn nhà mong mỏi, con cháu quý tộc trong thành Khai Phong cũng có không ít người cầu hôn Tào gia, lại đều bị cự tuyệt không có ngoại lệ nào, nghe nói bởi vì tầm mắt của Tào tiểu thư rất cao, vốn chướng mắt với hết thảy người đến cầu thân.
+
+END___############### Đoạn 57 ############### 
+
+PROMPT Cho Đoạn 57:
+A vibrant illustration depicting Cao Ying, a young woman of noble bearing, seated in a lavishly decorated pavilion in Kaifeng during the Northern Song Dynasty. She is surrounded by servants and displays an air of aloofness and discerning judgment. In the background, opulent gifts and elegantly dressed suitors can be subtly hinted at, suggesting the many marriage proposals she has rejected.
+
+START___############### Đoạn 58 ############### 
+
+Ngay khi không ít con cháu quý tộc vì Tào tiểu thư tâm cao khí ngạo mà âm thầm chán nản, dù thế nào cũng không ngờ được, Quảng Dương quận vương có tiếng xấu lại cầu thân với Tào thái hậu thành công, vì thế Tào thái hậu làm chủ, gả cháu gái nhà mẹ đẻ này cho Triệu Nhan, liên nhân giữa Tào gia và hoàng gia.
+
+END___############### Đoạn 58 ############### 
+
+PROMPT Cho Đoạn 58:
+A grand Northern Song Dynasty palace hall scene. Empress Cao, adorned in elaborate imperial robes, sits on a raised platform, presiding over a formal betrothal ceremony. Before her, Zhao Yan, the Guangyang Prince, kneels respectfully, dressed in formal attire befitting his rank. Cao Xiaojie, the Empress's niece, stands beside her aunt, radiating a mix of apprehension and nobility in her silk gown. Noblemen and women in Song Dynasty clothing fill the hall, some looking surprised or disapproving. Focus on the opulence of the hall - red pillars, intricate carvings, and silk banners - and the complex emotions on the faces of the characters, highlighting the unexpected union between the infamous prince and the powerful Cao family.
+
+START___############### Đoạn 59 ############### 
+
+Một người là nữ nhi tài mạo đều hay, một người là nhi tử của đương kim Thánh thượng, tuy rằng thanh danh của Triệu Nhan hơi kém một chút, nhưng người ngoài nhìn vào cũng coi như môn đăng hộ đối, tuy nhiên Tào Dĩnh trong tân phòng hiển nhiên không nghĩ vậy.
+
+END___############### Đoạn 59 ############### 
+
+PROMPT Cho Đoạn 59:
+A richly detailed oil painting depicting a young woman in elaborate Northern Song dynasty bridal attire, sitting on the edge of a bed within a sumptuously decorated bridal chamber. Her expression is subtly unhappy, even resentful. The room is filled with traditional wedding decorations – red silk hangings, embroidered pillows, and ornate lamps. A glimpse of a man's back in imperial yellow robes can be seen in the periphery, implying the presence of the emperor's son, but the focus remains on the woman's conflicted emotions. The style should be reminiscent of classical Chinese portraiture, with realistic rendering of textures and fabrics, and soft, diffused lighting.
+
+START___############### Đoạn 60 ############### 
+
+Nến đỏ lung linh, trướng mỏng ấm áp, quận vương phi Tào Dĩnh mới được tấn phong được bà mối vén khăn voan lên, mặc trên thân hỉ phục ngồi một mình trên chiếc giường ngà đỏ chót, vốn bên cạnh nàng còn có hai thị nữ hồi môn, nhưng trước đó đã bị nàng đuổi ra ngoài, hơn nữa trên mặt Tào Dĩnh cũng không có bất kì vẻ vui mừng nào, tay trái cầm một đoản kiếm tinh xảo, tay phải cầm lấy chuôi kiếm, không ngừng rút ra cắm vào, hàn quang sáng loáng trên thân kiếm tỏa ra bốn phía, dưới ánh nến không ngừng lập lòe lay động.
+
+END___############### Đoạn 60 ############### 
+
+PROMPT Cho Đoạn 60:
+A newly appointed Princess Cao Ying of the Northern Song Dynasty sits alone on a red lacquered ivory bed in a dimly lit room. Red candles flicker, casting warm light on thin, delicate curtains. She wears a newly-wed red dress (喜服), her veil recently lifted by a matchmaker. Her face is devoid of joy. In her left hand, she holds a small, exquisitely crafted sword. Her right hand grips the hilt, repeatedly drawing and sheathing the blade. The cold light from the blade flashes and flickers under the candlelight, creating a tense atmosphere.
+
+START___############### Đoạn 61 ############### 
+
+Tào Dĩnh xuất thân tướng môn, cái gọi là tướng môn chính là gia tộc nhiều đời làm tướng, những gia tộc này từ khi bắt đầu khai quốc chính là tướng lĩnh Đại Tống, tỷ như tổ tiên của Tào Dĩnh - Tào Bân chính là tướng lĩnh vô cùng nổi tiếng đầu thời Đại Tống, sau đó Tống Thái Tổ dùng rượu tước binh quyền, đám người Tào Bân vô cùng thức thời giao binh quyền ra, hoàng tộc Triệu thị vì báo đáp những người này liền cho họ phú quý qua nhiều thế hệ.
+
+END___############### Đoạn 61 ############### 
+
+PROMPT Cho Đoạn 61:
+undefined
+
+START___############### Đoạn 62 ############### 
+
+Không ít hậu nhân của tướng lĩnh bởi vì gia học sâu xa, cũng trở thành tướng lĩnh vô cùng ưu tú, trong đó xuất sắc nhất là hai nhà Tào, Cao. Bọn họ ngoại trừ thế gia tướng môn, còn nhiều thế hệ liên hôn với hoàng thất Đại Tống, tỷ như Tào Thái hậu và Cao hoàng hậu hiện giờ chia ra xuất thân từ hai nhà này, mà Tào thái hậu còn là dì của Cao hoàng hậu, từ đó có thể biết hai gia thế này hiển hách đến thế nào.
+
+END___############### Đoạn 62 ############### 
+
+PROMPT Cho Đoạn 62:
+A bustling Northern Song Dynasty imperial court scene. In the foreground, two women are depicted: one slightly older, radiating authority and dressed in rich, embroidered robes, representing Empress Dowager Cao; the other younger, also regal and adorned, representing Empress Cao. Noble families are gathered around, paying respects. The backdrop features intricate palace architecture and a vibrant atmosphere, emphasizing the power and influence of the Cao and Gao families through their imperial connections.
+
+START___############### Đoạn 63 ############### 
+
+Tổ phụ của Tào Dĩnh chính là đệ đệ ruột của Tào thái hậu, nói cho cùng nàng hẳn là phải gọi Tào thái hậu một tiếng cô tổ mẫu, chỉ có điều Tào Dĩnh lại không có cảm tình gì với vị cô tổ mẫu này, bởi vì chính vị cô tổ mẫu này đã đứng ra làm chủ, gả nàng cho Quảng Dương quận vương Triệu Nhan. Tuy rằng nàng cực lực phản đối nhưng dưới áp lực của gia tộc, ý kiến của nàng bị người ta trực tiếp lờ đi.
+
+END___############### Đoạn 63 ############### 
+
+PROMPT Cho Đoạn 63:
+A young woman in Northern Song dynasty clothing, Cao Ying, stands with a defiant expression, tears welling in her eyes. She is surrounded by older members of her family, dressed in elaborate silks and official robes. In the background, a grand hall with traditional Chinese architecture and decorations signifies the power of the imperial family. The scene is lit dramatically, highlighting Cao Ying's isolation and despair against the backdrop of familial pressure and opulence.
+
+START___############### Đoạn 64 ############### 
+
+Tào Dĩnh bây giờ đầy bụng phẫn nộ và ủy khuất, tướng mạo và tài học của nàng luôn luôn đứng đầu trong số các tỷ muội trong tộc, từ nhỏ cũng được trưởng bối trong gia tộc yêu quý. Các tỷ muội khác trong gia tộc đều muốn lấy được một sĩ tử được xướng danh trong Đông Hoa Môn, cho rằng những người đó đều là anh tài của Đại Tống, nhưng Tào Dĩnh lại luôn cho rằng chỉ có những đại tướng quân Tào Bân, Tào Vĩ tổ tiên của mình mới là đại anh hùng, đại hào kiệt chân chính.
+
+END___############### Đoạn 64 ############### 
+
+PROMPT Cho Đoạn 64:
+A beautifully rendered digital painting depicting Tào Dĩnh, a young woman in Northern Song Dynasty attire (silk robes, elaborate hairstyle typical of the period), standing in a traditional Chinese courtyard. Her expression is a mix of anger and resentment. Around her are other young women, presumably her cousins, gossiping and giggling, dressed in similar but less impressive clothing. In the background, subtly visible, are scrolls or artwork depicting famous generals like Tào Bân and Tào Vĩ, her ancestors. The overall tone should be rich and detailed, evoking the atmosphere of a prosperous Northern Song Dynasty household, with emphasis on conveying Tào Dĩnh's inner conflict and pride in her military heritage compared to her peers' aspirations for scholarly husbands. Use a color palette dominated by reds, greens, and golds to suggest wealth and status.
+
+START___############### Đoạn 65 ############### 
+
+Tuy rằng địa vị của võ tướng Đại Tống so ra kém hơn văn thần, nhưng Tào Dĩnh lại luôn mơ ước có một ngày được gả cho một vị tướng quân trẻ tuổi, tốt nhất là một tướng quân vừa anh tuấn vừa uy dũng như Địch Thanh, đáng tiếc nàng sinh muộn vài chục năm, Địch Thanh cũng đã qua đời từ nhiều năm trước rồi.
+
+END___############### Đoạn 65 ############### 
+
+PROMPT Cho Đoạn 65:
+undefined
+
+START___############### Đoạn 66 ############### 
+
+So sánh với trượng phu trong giấc mộng của Tào Dĩnh, vị Quảng Dương quận vương mà nàng phải lấy bây giờ cũng là một thái cực hoàn toàn khác, tuy rằng Tào Dĩnh chưa từng gặp Triệu Nhan, nhưng cũng đã được nghe nói về ác danh của gã, từ lời đồn đối phương tham tiền háo sắc không chuyện ác nào không làm, mấy năm trước vì dâm loạn thị nữ trong cung đã bị Hoàng hậu đuổi ra sống ngoài cung, kết quả ra khỏi cung rồi không ai quản thúc, Triệu Nhan càng trở nên càn quấy, ngày nào cũng cùng đám bạn bè thường xuyên lui tới tửu quán và kỹ quán, gần như cách vài ngày lại truyền ra chuyện gã tranh giành tình nhân với người khác mà đánh nhau, về phần thường ngày ức hiếp người lương thiện, đánh đập dân chúng đối với Triệu Nhan là chuyện cơm bữa, có thể nói ác danh của Triệu Nhan trong thành Đông Kinh không ai là không biết.
+
+END___############### Đoạn 66 ############### 
+
+PROMPT Cho Đoạn 66:
+A vivid depiction of a bustling street scene in Dongjing (Kaifeng), the capital of the Northern Song Dynasty. In the foreground, a richly dressed, corpulent man, presumably Zhao Yan, is being carried in a sedan chair, surrounded by rough-looking companions. People scatter in fear as they pass, some clutching their meager belongings. In the background, a tavern with a gaudy sign can be seen, hinting at Zhao Yan's frequent visits to such establishments. The overall atmosphere should be one of corruption and fear, emphasizing Zhao Yan's notoriety.
+
+START___############### Đoạn 67 ############### 
+
+Vừa vặn Tào Dĩnh có một đứa em họ ngỗ ngược suốt ngày giao du đàn đúm với Triệu Nhan, cho nên so với người bình thường nàng còn hiểu rõ hơn cách làm người của Triệu Nhan. Nghĩ đến nửa đời sau của mình sẽ nắm tay đi cùng dạng người như Triệu Nhan này, Tào Dĩnh liền cảm thấy vô cùng đau khổ.
+
+END___############### Đoạn 67 ############### 
+
+PROMPT Cho Đoạn 67:
+A sorrowful Cao Ying, dressed in Song dynasty silk robes, sits by a window overlooking a garden in Bianjing. Her face is etched with worry as she imagines a life married to Zhao Yan, a known troublemaker. Her cousin, in traditional Song attire, stands slightly behind her, a worried expression on their face. Cherry blossoms bloom outside, symbolizing the fleeting beauty of life and highlighting Cao Ying's internal turmoil. The style is inspired by Song Dynasty landscape paintings, with soft lighting and muted colors.
+
+START___############### Đoạn 68 ############### 
+
+Tính cách của nàng cương liệt, nguyện chết cũng không muốn để Triệu Nhan đụng vào một đầu ngón tay của mình, thậm chí sáng nay lúc mặc giá y, nàng còn giấu đoản kiếm nàng yêu quý nhất này vào trong người, định tự sát trong tân phòng, dùng cái chết để bảo toàn sự thanh bạch của bản thân.
+
+END___############### Đoạn 68 ############### 
+
+PROMPT Cho Đoạn 68:
+A Northern Song Dynasty bride in a red wedding gown, face filled with resolute determination and sorrow, subtly concealing a small dagger within her robes as she sits in a richly decorated bridal chamber. Soft morning light streams through the window, highlighting the ornate details of the room and the bride's internal conflict.  Focus on conveying her fierce spirit and desperate resolve.
+
+START___############### Đoạn 69 ############### 
+
+Chỉ có điều khi Tào Dĩnh xuất giá, nàng nhìn thấy mẫu thân vừa khóc và nói xin lỗi nữ nhi, dù mẫu thân biết rõ nhân phẩm của Triệu Nhan nhưng vẫn không thể không gả con gái đi, đây tất cả đều là yêu cầu của gia tộc, mẫu thân cũng không đủ sức thay đổi. Còn phụ thân luôn kiên cường cũng tỏ vẻ áy náy, quay mặt đi không đành lòng nhìn Tào Dĩnh, tóc mai cũng có thêm không ít sợi bạc.
+
+END___############### Đoạn 69 ############### 
+
+PROMPT Cho Đoạn 69:
+A poignant scene depicting Cao Ying's wedding day in the Northern Song Dynasty. The bride, in elaborate traditional wedding attire, looks on with a mix of sadness and resignation. Her mother, dressed in fine silks but with a face etched with sorrow, weeps and apologizes, her hands clasped together in supplication. Her father, a stern-faced man in official robes, turns away, his expression filled with regret. Glimpses of silver hair are visible at his temples. The setting is an opulent courtyard, decorated with red lanterns and banners, contrasting sharply with the family's emotional distress. Capture the somber mood and the weight of familial obligation. Use a color palette of deep reds, blues, and grays to emphasize the sadness and formality of the occasion. High detail, realistic painting style.
+
+START___############### Đoạn 70 ############### 
+
+Đại ca cõng nàng xuống lầu cũng than thở, chỉ đệ đệ muội muội và cháu trai cháu gái không hiểu chuyện mới không có tim không có phổi mà cao giọng cười đùa. Nghĩ đến người nhà của mình, Tào Dĩnh cũng không tự chủ được lại mềm lòng, nàng chết rồi thì sẽ hết lo, nhưng nhất định sẽ liên lụy đến phụ mẫu và huynh đệ tỷ muội của mình.
+
+END___############### Đoạn 70 ############### 
+
+PROMPT Cho Đoạn 70:
+A concerned elder brother carrying his younger sister on his back down a wooden staircase in a traditional Northern Song Dynasty courtyard house. Other children, presumably her nieces/nephews and younger siblings, are playing and laughing obliviously in the background. The scene is lit with soft sunlight filtering through the paper windows, casting shadows on the intricately carved wooden railings. The sister looks pale and worried, while the brother's face is etched with concern.
+
+START___############### Đoạn 71 ############### 
+
+Dù sao Triệu Nhan nói thế nào cũng là hoàng tử, nếu mình tự sát trong lúc đại hôn, đây rõ ràng là làm nhục hoàng gia, chuyện lan truyền ra, để giữ thể diện cho hoàng gia, Tào gia bọn họ nhất định sẽ bị xử phạt, có lẽ toàn bộ gia tộc Tào thị sẽ không sao, nhưng đối với riêng chi của phụ thân Tào Dĩnh mà nói, nhất định sẽ trở thành sự đả kích to lớn, thậm chí gia tộc Tào thị để bảo toàn thanh danh của mình có thể sẽ trục xuất chi tộc nhân này của phụ thân ra khỏi gia tộc cũng không chừng.
+
+END___############### Đoạn 71 ############### 
+
+PROMPT Cho Đoạn 71:
+A dimly lit bridal chamber in a Northern Song Dynasty palace. A woman in a richly embroidered red wedding gown, but with a pale and determined face, holds a small, ornate dagger to her throat. Her eyes reflect inner turmoil. In the background, glimpses of opulent silk screens and ornate furniture suggest the grandeur of the imperial setting, but emphasize the woman's desperate situation. The overall tone is somber and tense.
+
+START___############### Đoạn 72 ############### 
+
+Nghĩ đến nếu mình tự sát sẽ mang đến hậu quả nghiêm trọng cho gia tộc, điều này làm cho Tào Dĩnh không khỏi thở dài một tiếng, đứng lên đi đến trước cửa sổ, đẩy cửa sổ ra nhìn ngắm bầu trời âm u bên ngoài. Mặc dù là ban đêm nhưng trong tầng mây thỉnh thoảng có những tia chớp nhỏ xẹt ngang, mơ hồ cũng có tiếng sấm truyền đến, thoạt nhìn thật giống như trời sắp mưa. - Trời xanh ơi trời xanh, nếu ông thật sự linh nghiệm, vậy hãy đánh thẳng sấm sét xuống, đánh chết tên ác nhân Triệu Nhan ấy đi.
+
+END___############### Đoạn 72 ############### 
+
+PROMPT Cho Đoạn 72:
+A young woman, Cao Ying, dressed in Song Dynasty robes, stands by a wooden window in a dimly lit room. Rain clouds obscure the night sky, punctuated by flashes of lightning. Her expression is a mix of despair and resentment as she looks out at the storm. The scene suggests a feeling of impending doom and silent supplication to the heavens. The architecture of the room is distinctly Northern Song, with traditional paper windows and dark wood furniture. A single oil lamp casts long shadows.
+
+START___############### Đoạn 73 ############### 
+
+Sau này ta nhất định sẽ ăn chay niệm Phật, cả đời hành thiện báo đáp ân tình của trời xanh! Tào Dĩnh ngẩng đầu nhìn khoảng không nặng nề, bỗng nhiên có vài ý nghĩ kì lạ, mở miệng thấp giọng khẩn cầu, nhưng khiến cho nàng thất vọng, sấm sét trên bầu trời không chút biến hóa, vẫn như trước không nhanh không chậm quay cuồng trong tầng mây, càng không có khả năng bổ trúng tên Triệu Nhan đang uống rượu ở tiền điện. Nhìn đến đây, Tào Dĩnh lại thở dài.
+
+END___############### Đoạn 73 ############### 
+
+PROMPT Cho Đoạn 73:
+A woman in Song Dynasty attire kneels on a simple wooden platform in a courtyard, her face upturned towards a dark, stormy sky. Rain is lightly falling. Her expression is one of earnest prayer and slight disappointment. In the distance, through an archway, the blurred figures of men can be seen drinking at tables in a brightly lit hall. The overall atmosphere is somber and melancholic. The color palette should be dominated by cool grays and blues of the stormy sky, contrasted with the warmer tones of the distant hall.
+
+START___############### Đoạn 74 ############### 
+
+Nàng cũng biết bản thân chỉ vọng tưởng mà thôi, trước mắt nàng đã chính thức bái thiên địa với Triệu Nhan rồi, hơn nữa còn bái kiến quan gia Triệu Thự và Cao hoàng hậu, điều này cũng có nghĩa bọn họ đã chính thức là phu thê, cho dù là thần tiên hạ phàm, chỉ sợ cũng không thể thay đổi sự thật này.
+
+END___############### Đoạn 74 ############### 
+
+PROMPT Cho Đoạn 74:
+A Northern Song Dynasty wedding ceremony scene. Xinniang (bride) in elaborate red wedding robes and headdress, kneeling alongside Zhao Yan before an altar. Behind them stand Emperor Zhao Shu in imperial yellow robes and Empress Cao in formal phoenix robes. The background shows a grand hall with traditional Chinese architecture, red pillars, and silk banners. The overall tone is formal and solemn, depicting the irrevocable nature of the marriage ritual.
+
+START___############### Đoạn 75 ############### 
+
+Tào Dĩnh cúi đầu nhìn bảo kiếm đang nắm chặt trong tay, thanh kiếm này là khi sinh nhật nàng, tổ phụ đã tặng cho nàng, chẳng những bề ngoài hoa mỹ mà còn sắc bén dị thường, lúc nào cũng là vật nàng yêu quý. Chỉ có điều bảo kiếm dù lợi, nhưng không chém đứt nổi thân tình của thế gian, ít nhất hiện giờ Tào Dĩnh muốn dứt bỏ ngay những dây dưa với người đối diện nhưng lại không thể được. - Nếu đã không dùng được, vậy còn giữ ngươi lại làm gì?
+
+END___############### Đoạn 75 ############### 
+
+PROMPT Cho Đoạn 75:
+A young woman, Tào Dĩnh, dressed in Northern Song Dynasty clothing, stands in a courtyard. She is looking down at a beautifully crafted sword held tightly in her hands. The courtyard is made with pale stones and wooden frames. The woman's expression is conflicted and sad. The sword is ornate, with jade or pearl inlays, reflecting the dim light. Soft morning light from the east casts shadows across her face and the courtyard, conveying a sense of internal struggle and melancholy. Close-up, detailed, Northern Song Dynasty style, with a focus on emotional realism.
+
+START___############### Đoạn 76 ############### 
+
+Tào Dĩnh nói xong bỗng nhiên vung tay lên, cầm bảo kiếm nàng yêu quý trong tay dùng sức ném ra ngoài cửa sổ, kết quả rất nhanh đã truyền đến tiếng rơi xuống nước, ngoài cửa sổ không xa là một hồ nước, bảo kiếm rơi xuống nước, phỏng chừng cũng không thể tìm được nữa rồi. Mắt thấy không lâu nữa sẽ tới giờ Hợi, tiệc cưới ở tiền điện cũng tiến hành gần xong rồi, Tào Dĩnh vẻ mặt đờ đẫn trở lại ngồi trên giường. Nếu vận mệnh đã như thế, nàng cũng chỉ có thể lựa chọn cách thuận theo.
+
+END___############### Đoạn 76 ############### 
+
+PROMPT Cho Đoạn 76:
+A young woman, Tao Ying, in Northern Song Dynasty wedding attire, sits despondently on a bed in a room with traditional Chinese architecture. Her expression is blank and resigned. Through the open window, a dark lake reflects the moonlight. The vague silhouette of a sword disappearing beneath the water's surface can be seen. The room is lit by dim candlelight, casting long shadows. The time is late evening.
+
+START___############### Đoạn 77 ############### 
+
+“Rầm” một tiếng vang lớn, cửa lớn tân phòng bị người đột nhiên đẩy ra, một mùi rượu nồng nặc cũng xộc vào, điều này làm cho hai mày của Tào Dĩnh nhíu lại, ngay sau đó một bóng dáng lảo đảo xông vào trong phòng, sau đó thị nữ phía ngoài lặng lẽ đóng cửa tân phòng lại. Không cần hỏi, tên uống say mèm này khẳng định chính là Quảng Dương quận vương Triệu Nhan nổi tiếng xấu xa rồi.
+
+END___############### Đoạn 77 ############### 
+
+PROMPT Cho Đoạn 77:
+A dimly lit Northern Song Dynasty bridal chamber. The large wooden doors have been violently thrown open, revealing a disheveled man in noble attire (suggesting Prince Zhao Yan) stumbling inside. Wine jugs and overturned furniture litter the foreground. A young woman, Cao Ying, in elaborate bridal wear, is shown with a furrowed brow, recoiling slightly from the intrusion. Two maids are visible just outside the doorway, discreetly closing the door with apprehensive expressions. The overall tone is one of tension and impending unease.
+
+START___############### Đoạn 78 ############### 
+
+Tuy rằng Tào Dĩnh đã tâm như tro tàn, nhưng đối với vị lang quân tương lai này của mình, nàng vẫn không kìm nổi có chút tò mò, lập tức nghiêng đầu sang chỗ khác liếc mắt nhìn đối phương một cái, chỉ có điều kết quả làm nàng cực kỳ thất vọng.
+
+END___############### Đoạn 78 ############### 
+
+PROMPT Cho Đoạn 78:
+A young woman in Northern Song dynasty attire, with a melancholic expression, subtly glancing sideways with a hint of curiosity and disappointment at a young man beside her. The scene should depict a formal setting, perhaps a pre-wedding meeting, with traditional Chinese architecture in the background, suggesting a well-to-do family. Focus on the woman's subtle expression of disappointment.
+
+START___############### Đoạn 79 ############### 
+
+Mượn ánh nến trong tân phòng, Tào Dĩnh có thể thấy rất rõ diện mạo của Triệu Nhan, chỉ thấy vẻ ngoài của đối phương cũng không khó coi, thậm chí còn được coi là có chút anh tuấn, nhưng sắc mặt Triệu Nhan lại xanh trắng không bình thường, quầng mắt thâm lại, hai gò má hơi lõm xuống, cả người thoạt nhìn rất phờ phạc.
+
+END___############### Đoạn 79 ############### 
+
+PROMPT Cho Đoạn 79:
+A dimly lit bridal chamber in the Northern Song Dynasty. Cao Ying, illuminated by candlelight, observes Zhao Yan. Zhao Yan's features are not unattractive, even somewhat handsome, but his complexion is sickly pale. Dark circles ring his eyes, and his cheeks are slightly sunken, giving him a tired and weak appearance. The overall atmosphere is somber and emphasizes the contrast between the joyful setting and Zhao Yan's unwell state.
+
+START___############### Đoạn 80 ############### 
+
+Tổ phụ của Tào Dĩnh tinh thông y thuật, cực kỳ có danh tiếng ở Đại Tống, thuở nhỏ nàng cũng theo ông nội học chút y thuật, cảnh này trong giới quý tộc càng khiến nàng cảm thấy không bình thường.
+
+END___############### Đoạn 80 ############### 
+
+PROMPT Cho Đoạn 80:
+A young woman, Cao Ying, in Northern Song Dynasty noble attire, carefully observing her elderly grandfather, a renowned physician, examining medicinal herbs in a sunlit courtyard. The setting is a traditional Chinese courtyard with classical architecture and lush greenery, suggesting a privileged upbringing. The grandfather wears a scholar's robe and has a wise, gentle expression. The overall atmosphere conveys a sense of learning and tradition, hinting at Cao Ying's unique path within the aristocratic society.
+
+START___############### Đoạn 81 ############### 
+
+Đối với hoàn cảnh như của Triệu Nhan thế này, Tào Dĩnh liếc qua đã thấy đối phương là do tửu sắc quá độ gây nên, mặc dù đối phương còn trẻ có thể tĩnh dưỡng để hồi phục trở lại, nhưng cũng cần phải tốn không ít thời gian cùng với nghị lực tương đối lớn, mà Tào Dĩnh hiển nhiên không cho rằng tên Triệu Nhan này có thể có được nghị lực lớn đến thế.
+
+END___############### Đoạn 81 ############### 
+
+PROMPT Cho Đoạn 81:
+A young man, Zhao Yan, in Northern Song dynasty clothing, looking pale and unwell. He is sitting in a lavishly decorated room, surrounded by wine bottles and courtesans. Cao Ying, dressed in the robes of a learned physician, is observing him with a discerning, slightly disapproving gaze. The room is dimly lit, with silk lanterns casting soft shadows. The style should be reminiscent of traditional Chinese ink wash painting, with an emphasis on detail and realism in the figures' expressions.
+
+START___############### Đoạn 82 ############### 
+
+Chỉ thấy sau khi Triệu Nhan say xỉn đôi mắt lờ đờ mông lung đi vào tân phòng, ngẩng đầu nhìn tân nương tử xinh đẹp vô cùng, lập tức cười hắc hắc nói:
+- Quả nhiên không hổ là đệ nhất mỹ nữ của tướng môn, Triệu Nhan ta thật đúng là quá may mắn, không ngờ lại cưới được tiểu nương tử xinh đẹp như vậy! Đối với lời khen của Triệu Nhan về dung mạo của mình, Tào Dĩnh cũng không có chút phản ứng nào. Triệu Nhan cũng uống rượu say, căn bản không chú ý đến vẻ đờ đẫn trên mặt Tào Dĩnh.
+
+END___############### Đoạn 82 ############### 
+
+PROMPT Cho Đoạn 82:
+A Northern Song Dynasty wedding chamber. Zhao Yan, visibly drunk with flushed cheeks and unfocused eyes, stumbles towards the elaborately dressed bride, Cao Ying. He's grinning widely. Cao Ying stands rigidly, her expression blank and unresponsive. Red and gold decorations adorn the room, with flickering candlelight illuminating the scene. Focus on Zhao Yan's intoxication and Cao Ying's detached demeanor.
+
+START___############### Đoạn 83 ############### 
+
+Chỉ thấy gã thất tha thất thểu đi tới trước bàn, tự rót cho mình một chén rượu, sau đó từ trong ngực lấy ra một cái bình sứ nhỏ, mở nút bình ra cười khinh khỉnh nhìn Tào Dĩnh, rắc bột phấn trong bình vào chén rượu rồi uống một hơi cạn sạch.
+
+END___############### Đoạn 83 ############### 
+
+PROMPT Cho Đoạn 83:
+A disheveled man in Song Dynasty clothing (tattered robes, messy hair) stumbling towards a wooden table in a dimly lit tavern. He pours wine from a clay jug into a ceramic cup. With a sinister smirk directed at a woman named Cao Ying, he opens a small porcelain vial and sprinkles white powder into the cup. He then drinks the poisoned wine in one gulp. The style should be reminiscent of Song Dynasty landscape painting, but with dark, dramatic lighting to emphasize the sinister nature of the scene. Details to include: a dusty table, spilled wine, Cao Ying looking on with concern/fear, the vial with white powder prominently displayed.
+
+START___############### Đoạn 84 ############### 
+
+Chiếc bàn cách Tào Dĩnh không xa, khi Triệu Nhan đang mở bình sứ ra, nàng đã ngửi thấy một mùi thuốc đông y, cũng biết rõ y lý và dược tính, Tào Dĩnh lập tức phân biệt được đây là thuốc gì, thậm chí chính mắt nàng còn nhìn thấy ba chữ viết trên bình sứ, như thế cho dù nàng không hiểu dược tính, chỉ dựa vào tên này cũng có thể đoán được Triệu Nhan đang dùng chính là thuốc tráng dương.
+
+END___############### Đoạn 84 ############### 
+
+PROMPT Cho Đoạn 84:
+An elegantly dressed woman (Cao Ying), Northern Song Dynasty attire, observing a younger woman (Zhao Yan) opening a small ceramic jar on a low table. The scene is set in a well-lit room, possibly a study or a private chamber. Incense smoke subtly fills the air. Cao Ying has a knowing, slightly amused expression. Focus on details like the ceramic jar, traditional clothing, and the atmospheric lighting. The background suggests wealth and refinement. The lighting highlights Cao Ying's face as she observes Zhao Yan.
+
+START___############### Đoạn 85 ############### 
+
+- Ngươi…
+Phát hiện này khiến Tào Dĩnh thiếu chút nữa tức đến ngất xỉu, hai tay nắm lấy vạt áo của mình, trong đôi mắt phượng cũng tràn ngập sự khuất nhục và lửa giận. Tân lang trong đêm tân hôn đầu tiên dùng dược vật tráng dương, chuyện này nếu lan truyền ra ngoài, chẳng những Triệu Nhan mất mặt, Tào Dĩnh cũng không còn mặt mũi mà sống nữa rồi.
+
+END___############### Đoạn 85 ############### 
+
+PROMPT Cho Đoạn 85:
+A Northern Song Dynasty bride, Cao Ying, in her wedding chamber, face contorted with rage and humiliation. She clutches her bridal robes. Her eyes are wide with fury. In the background, hints of the bridal chamber: red silk sheets, candles, and an overturned medicine bottle on the floor. Emphasize the contrast between the opulent setting and Cao Ying's emotional distress. The lighting should be dramatic, with shadows highlighting her anger.
+
+START___############### Đoạn 86 ############### 
+
+Thậm chí bây giờ nàng đang hối hận vì vừa rồi đã ném đoản kiếm đi, nhục nhã đến thế này, cho dù liều mình khiến cửa nát nhà tan, nàng cũng không muốn phải nhẫn nhịn chút nào. - Há há, đêm động phòng hoa chúc, sao có thể thiếu vật này trợ hứng? Tiểu nương tử đừng nóng lòng, đợt lát nữa bổn vương sẽ cho nàng biết thế nào gọi là cực lạc nhân gian? Triệu Nhan say rượu vốn không phát hiện ra sự phẫn nộ của Tào Dĩnh, thậm chí miệng còn ba hoa một chút về thú hoan lạc với đối phương.
+
+END___############### Đoạn 86 ############### 
+
+PROMPT Cho Đoạn 86:
+A dimly lit bridal chamber in the Northern Song Dynasty. A drunken and lecherous Prince Zhao Yan, in ornate royal robes, is grabbing at Cao Ying, who is dressed in a red wedding gown but with a fierce and disgusted expression. Scattered on the floor are pieces of broken furniture, hinting at a previous struggle. A shortsword lies discarded near the wall. The scene should convey a sense of impending violation and Cao Ying's barely contained rage. Use warm, saturated colors with a touch of harsh lighting to emphasize the contrast between Zhao Yan's lasciviousness and Cao Ying's anger.
+
+START___############### Đoạn 87 ############### 
+
+Dù sao thì theo gã, Tào Dĩnh đã là nữ nhân của mình, nói chút lời thô tục có đáng kể chi. Nhìn Triệu Nhan nhích từng bước lại gần mình, Tào Dĩnh chỉ cảm thấy mình sắp giận đến phát điên rồi. Từ nhỏ đến lớn, đây là lần đầu tiên nàng chán ghét một người như vậy, thậm chí cảm thấy đứng trong cùng một căn phòng với loại người như Triệu Nhan chính là nỗi nhục lớn nhất của mình, chứ đừng nói gì đến việc phải cùng gã động phòng.
+
+END___############### Đoạn 87 ############### 
+
+PROMPT Cho Đoạn 87:
+A beautifully rendered digital painting in the style of a Song Dynasty scroll painting. The scene depicts an interior room, richly decorated with traditional Chinese furniture and silk hangings. A young woman, dressed in elaborate Song Dynasty robes, stands with a look of barely contained fury on her face. She is being approached by a man in equally rich attire who has a leering expression. The woman appears repulsed and desperate to escape. The lighting emphasizes the tension in the room, with soft light filtering through paper windows and illuminating the characters' faces. The overall tone should be one of oppression and disgust.
+
+START___############### Đoạn 88 ############### 
+
+Nghĩ đến đây, Tào Dĩnh tính cách cương liệt bỗng nhiên giơ tay nắm lấy cây trâm trên đầu. Vốn vì người nhà, nàng đã chuẩn bị khuất phục rồi, nhưng biểu hiện của Triệu Nhan hiện giờ đã vượt ra khỏi giới hạn của nàng, cho nên bất kể thế nào nàng cũng sẽ không để kẻ như thế chạm vào mình, mặc kệ rằng hiện giờ trên danh nghĩa nàng đã là thê tử của Triệu Nhan!
+
+END___############### Đoạn 88 ############### 
+
+PROMPT Cho Đoạn 88:
+A young woman with determined eyes, dressed in Song Dynasty clothing, stands in a dimly lit room. Her hand is raised, clutching a hairpin near her head. Her expression is a mix of defiance and despair. Background: A simple room in a Northern Song Dynasty style home.  Subtly emphasize the tension and inner conflict in her face. Style: Realistic, painterly.
+
+START___############### Đoạn 89 ############### 
+
+Mắt Triệu Nhan say xỉn, lờ đờ mông lung vốn không chú ý tới sự khác thường của Tào Dĩnh, thậm chí bây giờ trong đầu gã toàn là những hình ảnh khó coi, căn bản không có khả năng suy tính đến chuyện khác, cho nên vẻ mặt vẫn cười dâm đãng như cũ, tiến sát tới gần Tào Dĩnh.
+
+END___############### Đoạn 89 ############### 
+
+PROMPT Cho Đoạn 89:
+A Northern Song Dynasty tavern scene. Zhao Yan, visibly drunk with flushed cheeks and unfocused eyes, stumbles towards Cao Ying. Cao Ying is standing stiffly, a subtle hint of discomfort or apprehension on her face. The tavern is dimly lit, with round wooden tables and patrons drinking and chatting in the background. The scene captures the blurred perception of Zhao Yan in his drunken state.
+
+START___############### Đoạn 90 ############### 
+
+Mắt thấy Tào Dĩnh sắp nhổ cây trâm trên đầu xuống, thà chết cũng không chịu khuất nhục, bỗng nhiên phía ngoài tân phòng vang lên những tiếng hô kinh ngạc, thậm chí còn kèm theo tiếng hét chói tai của thị nữ, nghe hết sức kinh hoảng. Hình như có gì đó làm cho người ta sợ hãi đang xông vào phủ quận vương. Nghe thấy tiếng động lạ bên ngoài, Tào Dĩnh dừng tay lại, Triệu Nhan cũng dừng bước chân, trên mặt hai người đều mang theo vẻ hết sức nghi hoặc.
+
+END___############### Đoạn 90 ############### 
+
+PROMPT Cho Đoạn 90:
+A tense scene in a Northern Song Dynasty bridal chamber. Cao Ying is poised to remove her hairpin, a symbol of defiance. Zhao Yan, a man in official robes, pauses mid-step, his expression conflicted. Outside the room, through an open doorway, servants react in terror, their faces a mixture of shock and fear. The lighting is dim, lit by candles, casting long shadows. The style should be reminiscent of traditional Chinese ink wash paintings, with an emphasis on capturing emotion and atmosphere.
+
+START___############### Đoạn 91 ############### 
+
+Dù sao nơi này cũng là trong phủ quận vương, hôm nay lại là ngày đại hỉ của Triệu Nhan, xung quanh phủ quận vương đều có trọng binh canh gác, sao có thể xảy ra chuyện ngoài ý muốn?
+
+END___############### Đoạn 91 ############### 
+
+PROMPT Cho Đoạn 91:
+A bustling courtyard within a grand mansion in the Northern Song Dynasty. Soldiers in traditional armor stand guard at the gates and along the walls. Festive red lanterns and banners adorn the buildings. In the center, preparations for a wedding are underway. The scene conveys a sense of security and celebration within the well-guarded estate. Style: Photorealistic, detailed.
+
+START___############### Đoạn 92 ############### 
+
+Ngay khi Tào Dĩnh và Triệu Nhan cùng ngẩn người, ngoài cửa sổ vừa bị Tào Dĩnh mở toang bỗng nhiên lóe lên ánh sáng trắng, ngay sau đó một quả cầu sáng trắng lớn bằng đầu người nhẹ nhàng tiến vào, tiếp đó chỉ thấy quả cầu sáng này đi vào rồi dừng lại một chút, tiếp theo lập tức bay về hướng Triệu Nhan, kết quả Tào Dĩnh chỉ nghe thấy Triệu Nhan hét thảm một tiếng, sau đó toàn bộ tân phòng lóe lên ánh sáng trắng chói mắt, làm cho nàng theo bản năng nhắm hai mắt lại.
+
+END___############### Đoạn 92 ############### 
+
+PROMPT Cho Đoạn 92:
+A brightly lit bridal chamber in Northern Song Dynasty style. A startled Cao Ying and Zhao Yan stand near an open window. A glowing white orb, the size of a human head, floats into the room. Zhao Yan screams as the orb approaches, and the room is filled with a blinding white light. Cao Ying instinctively closes her eyes.
+
+START___############### Đoạn 93 ############### 
+
+Một lát sau, khi Tào Dĩnh mở mắt ra lần nữa, lại phát hiện trong phòng cũng không có thay đổi gì lớn, cái bàn vẫn vô cùng ngay ngắn như cũ, nến đỏ vẫn sáng ngời, chỉ có Triệu Nhan đang nằm thẳng tắp trước giường, bên ngoài tuy không có vết thương gì, nhưng trên mặt toàn bộ đều đen xám, hơn nữa y phục trên người cũng bị cháy đến rách nát, có nhiều chỗ dường như còn tỏa ra vài làn khói nhẹ. Càng khiến cho Tào Dĩnh kinh ngạc là bên cạnh Triệu Nhan hình như có thêm mấy thứ đồ kì lạ.
+
+END___############### Đoạn 93 ############### 
+
+PROMPT Cho Đoạn 93:
+A dimly lit room in a Northern Song Dynasty home. Cao Ying kneels beside Zhao Yan, who lies motionless on the floor near a bed. Zhao Yan's face is ashen, and his clothes are torn and slightly smoking. Red candles illuminate the scene, highlighting strange, unfamiliar objects scattered beside Zhao Yan. The table is neatly arranged in the background, contrasting with the chaos around Zhao Yan.
+
+START___############### Đoạn 94 ############### 
+
+- Chuyện này… chuyện này là sao? Tào Dĩnh ngây ngốc nhìn Triệu Nhan trên mặt đất, trên mặt đầy vẻ khó tin. Tuy nhiên Tào Dĩnh rất nhanh đã tỉnh táo lại từ trong nỗi khiếp sợ, bất kể xảy ra chuyện gì, tình hình Triệu Nhan hiện tại cũng vô cùng không ổn, nếu chẳng may thật sự chết trong tân phòng, vậy nàng cũng không thoát khỏi liên can, thậm chí ngay đến gia tộc cũng sẽ bị liên lụy.
+
+END___############### Đoạn 94 ############### 
+
+PROMPT Cho Đoạn 94:
+A dimly lit bridal chamber in the style of the Northern Song Dynasty. A young woman, Cao Ying, dressed in elegant Song Dynasty attire, stands frozen in shock, staring at Zhao Yan, who is lying motionless on the floor in a red wedding robe. Her face is pale, a mix of disbelief and fear. The room is decorated with traditional wedding decorations like red lanterns and embroidered silk, but the scene is disturbed and unsettling. The lighting emphasizes Cao Ying's distress and the fallen Zhao Yan.
+
+START___############### Đoạn 95 ############### 
+
+Nghĩ đến đây, Tào Dĩnh vội vàng đứng dậy, đi tới định quan sát xem đối phương sống hay chết, tuy nhiên nàng vừa mới đi tới bên cạnh Triệu Nhan đã thấy Triệu Nhan gương mặt đen xám trên mặt đất bỗng nhiên mở to mắt, đôi mắt nhìn chằm chằm vào nàng, khiến cho Tào Dĩnh hoảng sợ, đồng thời trong lòng cũng nhẹ bẫng, bởi vì ít nhất Triệu Nhan vẫn còn sống.
+
+END___############### Đoạn 95 ############### 
+
+PROMPT Cho Đoạn 95:
+A woman in Song Dynasty (Northern Song Dynasty, China) attire, Cao Ying, stands near a man, Zhao Yan, lying on the ground. Cao Ying has a concerned expression. Zhao Yan's face is pale and ashen, but his eyes are suddenly wide open, staring directly at Cao Ying. The scene is dimly lit, perhaps indoors or in a secluded area. Details of Song Dynasty clothing and architecture should be visible.
+
+START___############### Đoạn 96 ############### 
+
 Tuy nhiên khiến Tào Dĩnh tuyệt đối không thể tin được chính là, sau khi Triệu Nhan mở to mắt nhìn nàng, bỗng nhiên trên mặt lộ ra vẻ vô cùng bi phẫn, chống tay ngồi dậy lớn tiếng gào lên với nàng:
 - Tiên nữ tỷ tỷ, không phải ta chỉ trộm của lão hương một củ khoai lang và hai bắp ngô thôi ư, sao tỷ lại lấy tia chớp bổ xuống ta chứ?
 
-END___############### Đoạn 18 ############### 
+END___############### Đoạn 96 ############### 
+
+PROMPT Cho Đoạn 96:
+A scene in a humble Northern Song Dynasty village. A young girl, Cao Ying, dressed in simple but clean clothes, stands with a shocked expression. A boy, Zhao Yan, around 8-10 years old, sits up abruptly, his face contorted in a mix of anger and sorrow. He is pointing an accusing finger at Cao Ying. Smoke and dust rise slightly around him, hinting at a recent lightning strike. In the background, a farmer's house and a field with sweet potatoes and corn are visible. Focus on the boy's dramatic expression and Cao Ying's disbelief. The overall atmosphere should be slightly chaotic but also have a touch of humor.
 

@@ -8,37 +8,30 @@ const url =
 
 const selector = "#chapter-c";
 const fileName = "xuyen-khong-vuong-gia-vo-dung-lot-xac_chuong-1";
-const chunkSize = 500; // Max word per chunk
+const chunkSize = 500; // Max character per chunk
 
 const outputDir = path.join(__dirname, "data"); // Folder named 'data'
 const outputFile = path.join(outputDir, `${fileName}.txt`); // File inside 'data' folder
 const outputJson = path.join(outputDir, `json-data.json`); // File inside 'data' folder
 
 const chunkData = (cleanText) => {
-  // Split text into sentences while keeping punctuation
-  const sentences = cleanText.match(/[^.!?]+[.!?]/g) || [cleanText];
+  // Split text into sentences
+  const sentences = cleanText.split(/(?<=[.!?])\s+/); // Keeps punctuation
 
-  // Group sentences into chunks with a max of `maxWords` words
+  // Group sentences into chunks ≤ chunkSize characters
   let chunks = [];
-  let currentChunk = [];
-  let wordCount = 0;
+  let currentChunk = "";
 
-  for (let sentence of sentences) {
-    let sentenceWords = sentence.trim().split(/\s+/).length; // Count words in sentence
-
-    if (wordCount + sentenceWords <= chunkSize) {
-      // Add sentence to current chunk
-      currentChunk.push(sentence);
-      wordCount += sentenceWords;
+  sentences.forEach((sentence) => {
+    if ((currentChunk + sentence).length <= chunkSize) {
+      currentChunk += (currentChunk ? " " : "") + sentence;
     } else {
-      // Save the current chunk before it exceeds limit
-      if (currentChunk.length) chunks.push(currentChunk.join(" "));
-      currentChunk = [sentence]; // Start a new chunk
-      wordCount = sentenceWords;
+      if (currentChunk) chunks.push(currentChunk);
+      currentChunk = sentence;
     }
-  }
-  // Push the last chunk if it has content
-  if (currentChunk.length) chunks.push(currentChunk.join(" "));
+  });
+
+  if (currentChunk) chunks.push(currentChunk); // Add last chunk
 
   let mergedData = "START___############### Đoạn 1 ############### \n\n";
   chunks.forEach((chunk, index) => {
@@ -46,6 +39,11 @@ const chunkData = (cleanText) => {
     mergedData += `\n\nEND___############### Đoạn ${
       index + 1
     } ############### \n\n`;
+
+    mergedData += `PROMPT Cho Đoạn ${index + 1}:\n@@@@@@_PROMPT_${
+      index + 1
+    }_@@@@@@\n\n`;
+
     if (index !== chunks.length - 1) {
       mergedData += `START___############### Đoạn ${
         index + 2
